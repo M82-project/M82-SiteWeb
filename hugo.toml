@@ -1,8 +1,8 @@
 baseURL = 'https://m82-project.org/'
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+
 SectionPagesMenu = "main"
 defaultContentLanguage = "fr"
-
+theme = "gohugo-theme-ananke"
 [languages]
     [languages.en]
     title = "Ananke"
