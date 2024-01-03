@@ -6,9 +6,6 @@
   HUGO_VERSION = "v0.121.1"
 
 [[plugins]]
-  package = "@netlify/plugin-hugo"
-
-[[plugins]]
   package = "netlify-plugin-github-nested"
   [plugins.inputs]
     repo = "theNewDynamic/gohugo-theme-ananke"
