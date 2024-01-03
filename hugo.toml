@@ -1,4 +1,4 @@
-baseURL = 'https://m82-project.org/'
+baseURL = 'https://chipper-klepon-ab7771.netlify.app'
 
 SectionPagesMenu = "main"
 defaultContentLanguage = "fr"
