@@ -1,0 +1,18 @@
+[build]
+  publish = "public"
+  command = "hugo"
+
+[context.production.environment]
+  HUGO_VERSION = "v0.121.1"
+
+[[plugins]]
+  package = "@netlify/plugin-hugo"
+
+[[plugins]]
+  package = "netlify-plugin-github-nested"
+  [plugins.inputs]
+    repo = "theNewDynamic/gohugo-theme-ananke"
+    branch = "main"  # Change to the branch you want to use
+
+[context.production]
+  command = "hugo --gc --minify"
