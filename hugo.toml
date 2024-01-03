@@ -1,0 +1,22 @@
+baseURL = 'https://m82-project.org/'
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+SectionPagesMenu = "main"
+defaultContentLanguage = "fr"
+
+[languages]
+    [languages.en]
+    title = "Ananke"
+    weight = 1
+    # languageDirection = 'rtl' for Right-To-Left languages
+    [languages.fr]
+    weight = 2
+    contentDir = "content"
+    
+
+[[params.ananke_socials]]
+name = "linkedin"
+url = ""
+[[params.ananke_socials]]
+name = "github"
+url = ""
+
