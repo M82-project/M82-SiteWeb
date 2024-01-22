@@ -3,7 +3,7 @@ baseURL = 'https://chipper-klepon-ab7771.netlify.app'
 SectionPagesMenu = "main"
 defaultContentLanguage = "fr"
 theme = "gohugo-theme-ananke"
-site_logo = "static/images/M82_N.jpg"
+site_logo = "images/M82_N.jpg"
 [languages]
     [languages.en]
     title = "Ananke"
