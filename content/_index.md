@@ -1,7 +1,7 @@
 ---
 draft: false
 cascade:
-  featured_image: 'images/M82_sport_equipe.jpg'
+  featured_image: 'images/banniere-site.png'
 ---
 # M82_Project
 
