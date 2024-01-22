@@ -4,6 +4,11 @@ SectionPagesMenu = "main"
 defaultContentLanguage = "fr"
 theme = "gohugo-theme-ananke"
 site_logo = "images/M82_N.jpg"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
 [languages]
     [languages.en]
     title = "M82 Project"
