@@ -11,7 +11,9 @@ theme = "gohugo-theme-ananke"
     [languages.fr]
     weight = 2
     contentDir = "content"
-    
+
+[params]    
+site_logo = "static/images/M82_N.jpg"
 
 [[params.ananke_socials]]
 name = "linkedin"
