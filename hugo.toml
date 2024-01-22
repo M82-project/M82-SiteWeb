@@ -10,8 +10,8 @@ site_logo = "images/M82_N.jpg"
     weight = 1
     # languageDirection = 'rtl' for Right-To-Left languages
     [languages.fr]
-    title = "M82"
-    weight = 2
+    title = "M82 Project"
+    weight = 1
     contentDir = "content"
 
 [[params.ananke_socials]]
