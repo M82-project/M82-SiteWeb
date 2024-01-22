@@ -6,10 +6,11 @@ theme = "gohugo-theme-ananke"
 site_logo = "images/M82_N.jpg"
 [languages]
     [languages.en]
-    title = "Ananke"
+    title = "M82"
     weight = 1
     # languageDirection = 'rtl' for Right-To-Left languages
     [languages.fr]
+    title = "M82"
     weight = 2
     contentDir = "content"
 
