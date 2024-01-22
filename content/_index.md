@@ -3,7 +3,7 @@ draft: false
 cascade:
   featured_image: 'images/banniere-site.png'
 ---
-# M82_Project
+# Présentation du M82_Project
 
 M82_Project, a pour objet principal de faciliter la compréhension et la prise en compte des enjeux liés à la sécurité numérique et favoriser la circulation des connaissances pluridisciplinaires. Elle a pour objet de constituer, animer et développer un réseau d’acteurs et d’experts du domaine de la cybersécurité, cyberdéfense et de la lutte contre la manipulation de l’information. M82 vise en particulier à la sensibilisation du public, des décideurs et des responsables publics ou privés. Elle regroupe des expertises variées et propose des analyses, rapports, évènements, séminaires, rencontres, etc. Afin de contribuer à la réflexion autour des thèmes liés à la cybersécurité, aux cyberconflictualités, la manipulation de l’information et la cybercriminalité.
 

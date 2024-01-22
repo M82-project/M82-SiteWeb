@@ -6,7 +6,7 @@ theme = "gohugo-theme-ananke"
 site_logo = "images/M82_N.jpg"
 [languages]
     [languages.en]
-    title = "M82"
+    title = "M82 Project"
     weight = 1
     # languageDirection = 'rtl' for Right-To-Left languages
     [languages.fr]
