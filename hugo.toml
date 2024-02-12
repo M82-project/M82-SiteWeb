@@ -10,10 +10,6 @@ site_logo = "images/M82_N.jpg"
   priority = 0.5
   filename = "sitemap.xml"
 [languages]
-    [languages.en]
-    title = "M82 Project"
-    weight = 1
-    # languageDirection = 'rtl' for Right-To-Left languages
     [languages.fr]
     title = "M82 Project"
     weight = 1
@@ -21,8 +17,8 @@ site_logo = "images/M82_N.jpg"
 
 [[params.ananke_socials]]
 name = "linkedin"
-url = ""
+url = "https://www.linkedin.com/company/m82-project/"
 [[params.ananke_socials]]
 name = "github"
-url = ""
+url = "https://github.com/M82-project/"
 
