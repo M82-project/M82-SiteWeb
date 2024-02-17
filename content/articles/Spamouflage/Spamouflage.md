@@ -1,6 +1,6 @@
 ---
 title: "Spamouflage" ou l'échec de la masse ?"
-date: 2024-02-17
+draft: false
 ---
 
 C'était à la fin du mois d'aout 2023, le groupe Meta, maison mère de Facebook et Instagram, annonçait, le démantèlement partiel d'un réseau diffusant de fausses informations et de la propagande pour le compte de la Chine. Cette campagne avait été partiellement identifiée dès la fin de 2019 par Graphika en particulier et qualifiée de "réseau de spam". Visiblement le réseau a continué son expansion conduisant les équipes de sécurité de Meta à identifier, sur Facebook, 7 704 comptes, 954 pages et 15 groupes liés à cette campagne, ainsi que 15 comptes sur Instagram. Les chiffres sont importants, au regard des campagnes habituellement détectées. La campagne était également active sur d'autres plateformes comme TikTok, Quora, YouTube, Reddit, Tumblr ou encore X.
