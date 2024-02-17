@@ -3,7 +3,9 @@ baseURL = 'https://m82-project.org'
 SectionPagesMenu = "main"
 defaultContentLanguage = "fr"
 theme = "gohugo-theme-ananke"
-site_logo = "images/M82_N.jpg"
+
+[params]
+  favicon= "images/favicon.ico"
 
 [sitemap]
   changefreq = "monthly"
