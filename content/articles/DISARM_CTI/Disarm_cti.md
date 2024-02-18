@@ -1,6 +1,7 @@
 ---
 title: "DISARM, un pas vers la CTI pour lutter contre la désinformation"
 author: Bertrand Boyer et Anaïs Meunier
+date: 2023-11-01
 ---
 La multiplication des campagnes de désinformation et leur impact potentiel
 sur la société ont conduit de nombreuses organisations (universités,
