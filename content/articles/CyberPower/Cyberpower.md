@@ -1,5 +1,6 @@
 ---
 Title: Cyberpower
+date:2023-02-05
 ---
 À l'invitation de l'IHEDN, Eviatar Matania a pu présenter son dernier
 livre, édité en français, Cyberpower (Israël, la révolution cyber et le
@@ -17,6 +18,8 @@ dynamique qu'il a imprimé à l'état d'Israël, il évoque des principes
 tels que le rôle primordial de la cyberdéfense (la meilleure défense...
 c'est bien la défense) et le rôle prépondérant des agences de
 renseignement techniques pour la maîtrise et l'emploi de l'arme cyber.
+
+![cyberPower couverture](https://github.com/sebdraven/M82-SiteWeb/blob/master/content/articles/CyberPower/51y%2Bo7a7RoL._SX195_.jpg)
 
 Dans un monde où la perception de l'arme cyber a basculé en 2010, pour
 devenir une arme d'emploi avec le ver Stuxnet, Eviatar s'attache à
