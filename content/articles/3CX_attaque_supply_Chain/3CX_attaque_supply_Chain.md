@@ -18,7 +18,7 @@ Comme pour toute attaque de la supply chain, c'est le processus de mise à jour 
 
 Dans le cas de 3CX, c'est la DLL ffmpeg.dll qui va être installée. Puis, comme l'explique Volexity, la DLL télécharge, après son chargement, un fichier hoster sur Github qui est encodé en base64 et chiffré en AES. Ce fichier a des urls où le malware va être téléchargé.
 
-#Le stealer lui-même
+## Le stealer lui-même
 
 On a d'abord parlé de stealer mais ce malware s'apparente plus à un outil de reconnaissance, il ne se contente pas de voler des informations mais permet de déployer largement d'autres fonctionnalités. En effet, au vu du nombre d'utilisateurs de 3CX (12 millions environ), compromettre autant de clients revient, pour l'attaquant, à adopter une technique de "pêche au chalut". Après avoir jeté ses filets, il va devoir trier et sélectionner les cibles les plus pertinentes. Pour cela, il devra se fonder sur les informations remontées sur le C2 dans un fichier json ainsi que la GUI de la machine qui passe dans les headers HTTPs. Si la machine l'intéresse, il va maintenir le C2.
 
