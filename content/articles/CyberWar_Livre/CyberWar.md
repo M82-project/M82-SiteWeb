@@ -1,8 +1,9 @@
 ---
 Title: Cyber War
+author: Nicolas Chevrier
 ---
-Par Nicolas Chevrier La lecture ou la relecture de l'ouvrage de Clarke
-et Knake, bien nommé Cyber War est encore très riche d'enseignement
+La lecture ou la relecture de l'ouvrage de Clarke
+et Knake, bien nommé *Cyber War* est encore très riche d'enseignement
 malgré une publication un peu datée, en 2010 (il y a eu une nouvelle
 édition par Harper Collins en 2012).
 
@@ -14,7 +15,7 @@ soupçon de pragmatisme et une construction bien ficelée : succession
 d'une histoire principale agrémenté d'anecdotes ; un peu de retour
 d'expérience dispensé ici et là, une vision et des propositions
 concrètes pour se projeter une fois la lecture achevée. Sans surprise,
-c'est exactement ce que l'on retrouve dans Cyber War.
+c'est exactement ce que l'on retrouve dans *Cyber War*.
 
 Quelques carences sont toutefois présentes et autant commencer par
 celles-ci. De cette manière on sait ce que l'on ne trouvera pas en
@@ -27,7 +28,7 @@ télécommunication (les fameux "Tier 1") dans la détection des cyber
 attaques qui sont perpétrées à l'encontre des États-Unis ou de leurs
 alliés. Un argumentaire relativement développé, visant à conférer aux
 dits opérateurs (1) l'obligation de surveiller le trafic, notamment
-entrant, (2) de l'analyser (le "Deep Packet Inspection" -DPI- laissait
+entrant, (2) de l'analyser (le *"Deep Packet Inspection"* -DPI- laissait
 alors espérer un tas de choses) et (3) les moyens législatifs d'agir à
 l'encontre de tout trafic jugé malveillant. Ça fleure bon les années
 2010 ! De plus, le développement plus récent des infrastructures de
@@ -36,13 +37,13 @@ réseau vers des sondes data sont évidemment absents. D'ailleurs,
 l'approche technique est plutôt faible, mais ça n'est pas ce qui fait
 l'attrait de l'ouvrage.
 
-Les atouts de Cyber War sont tout autres et à vrai dire, plutôt
+Les atouts de *Cyber War* sont tout autres et à vrai dire, plutôt
 nombreux. Le premier consiste en l'histoire contée de l'adoption du
 cyber par le Departement of Defense et les services de renseignement
 américains. On ne se pose plus vraiment la question aujourd'hui, mais
 les grands acteurs qui façonnent notre quotidien dans le cyberespace ont
 une histoire très récente. Encore plus que celle des armées de l'air
-créées majoritairement dans la première moitié du XXème siècle. Elle est
+créées majoritairement dans la première moitié du XXe siècle. Elle est
 d'ailleurs tout aussi mouvementée et passionnante pour qui s'intéresse
 plus aux capacités cyber qu'à la forme de l'empennage de tel ou tel
 aéronef ! Il s'agit donc de déterminer quel ancien "corps" sera le
@@ -58,16 +59,16 @@ s'introduire au sein des systèmes de défense anti aérienne de l'armée
 irakienne pour appuyer les opérations militaires plus traditionnelles.
 Un dilemme toujours contemporain se fait alors jour, opposant l'entrave
 à la collecte de renseignement. L'entrave et, de manière générale,
-l'emploi de capacités cyber furent défendus très tôt par l'United State
-Air Force dont le directeur de la Task Force Cyber disait déjà en 2008 :
-"If you are defending in cyberspace, you're already too late. If you do
-not dominate in cyberspace, then ou can not dominate in other domains."
+l'emploi de capacités cyber furent défendus très tôt par l'*United State
+Air Force* dont le directeur de la *Task Force Cyber* disait déjà en 2008 :
+> "If you are defending in cyberspace, you're already too late. If you do
+> not dominate in cyberspace, then ou can not dominate in other domains."
 
 Toute ces déclarations n'étaient pas spécialement au goût des agences de
-renseignement et tout particulièrement de la National Security Agency
+renseignement et tout particulièrement de la *National Security Agency*
 qui préfère opérer en toute discrétion. La situation a finalement évolué
 vers la création d'un commandement dual-hatted, regroupant la NSA et le
-US Cyber Command sous une même autorité.
+*US Cyber Command* sous une même autorité.
 
 Les affaires militaires et du renseignement étant en quelque sorte entre
 de bonnes mains, les auteurs vont dès lors s'attacher à explorer
@@ -83,33 +84,33 @@ intrusive pour le secteur privé, les Démocrates n'ont pas sauté le pas
 non plus. Quant à la faiblesse de leadership, force est de reconnaître
 que les nombreux postes de coordinateur (que Clarke a notamment occupé)
 étaient essentiellement consultatifs, manquant de pouvoir de conviction
-et de coercition. De plus, ils étaient installés au sein d'un Department
-of Homeland Security (DHS) trop jeune et trop grand pour s'intéresser
+et de coercition. De plus, ils étaient installés au sein d'un *Department
+of Homeland Security* (DHS) trop jeune et trop grand pour s'intéresser
 suffisamment aux défis et menaces issus du cyberespace. En effet, les
 années 2000-2010 étaient bien plus marquées par les conséquences de
 l'attaque terroriste du 11 septembre, i.e. la la lutte contre le
-terrorisme (le « War on Terror » de Georges W. Bush) et la conduite de
+terrorisme (le *"War on Terror"* de Georges W. Bush) et la conduite de
 deux guerres en Irak et en Afghanistan que par la menace probable d'un
-ensemble de geeks en "hoodies", pianotant frénétiquement sur des
+ensemble de geeks en *hoodies*, pianotant frénétiquement sur des
 claviers d'ordinateurs...
 
 Notons qu'en 2010, il s'agissait d'un bilan audacieux et visionnaire en
 2010, où la bascule de la lutte contre le terrorisme vers le concept de
-"Great Power Competition" ne s'était pas encore opérée. Les auteurs
+*"Great Power Competition"* ne s'était pas encore opérée. Les auteurs
 avaient notamment pressenti qu'en l'absence d'une défense à la hauteur
 des adversaires des États-Unis, il serait délicat d'employer l'arme
 cyber de manière offensive.
 
 Pour en arriver là, il conviendrait de développer une stratégie
-défensive initiale, sobrement baptisée "defensive triad" par les deux
+défensive initiale, sobrement baptisée *"defensive triad"* par les deux
 auteurs. Il s'agirait de mettre en oeuvre des critères de sécurité
 promulgués au travers de lois et réglementations fédérales. Celles-ci
 sont regroupées au sein de trois piliers :
 
 • La défense des opérateurs de transports de communications dits "Tier 1
-operators" au travers desquels transite 90
+operators" au travers desquels transite 90 pourcent du trafic Internet nord américain. L’objectif serait ainsi de leur donner les moyens de détecter le trafic malveillant et les doter, grâce à un cadre réglementaire ad hoc, de l’autorité nécessaire au blocage du-dit trafic.
 
-• La sécurisation de la "power grid" américaine. Rappelons ici que
+• La sécurisation de la *"power grid"* américaine. Rappelons ici que
 l'alimentation électrique aux États-Unis ne fait pas l'objet d'un
 monopole comme en France et qu'une myriade d'opérateurs privés sont
 regroupés au sein de trois grandes "grilles". Cela constitue tout à la
@@ -119,7 +120,7 @@ réussie même avec un impact minime serait perçue comme une échec et un
 aveu de faiblesse de l'État américain (nda : et du Canada car les 3
 grilles recouvrent toute l'Amérique du Nord.
 
-• Enfin, la défense du DoD... au travers des systèmes logiciels et
+• Enfin, la défense du DoD au travers des systèmes logiciels et
 matériels employés, la redondance de systèmes classifiés, l'intégration
 de la sécurité dans les grands programmes militaires de demain (les
 débuts du F35), etc.
@@ -139,7 +140,7 @@ pour se renforcer collectivement.
 
 Enfin la stratégie américaine est mise à l'épreuve d'un exercice
 organisé au plus haut niveau de l'État. Cet exercice "tapis vert" ou
-"Table Top Exercice - TTX" pour reprendre la terminologie militaire voit
+*"Table Top Exercice - TTX"* pour reprendre la terminologie militaire voit
 s'affronter deux équipes, l'une chinoise et l'autre américaine, autour
 d'un scénario bien ficelé. Si l'on retrouve les bases d'un conflit
 traditionnel en mer de Chine, laissant craindre l'escalade dangereuse
