@@ -4,7 +4,7 @@ date: 2022-12-01
 ---
 Cette recension a été publiée dans le numéro de printemps 2022 de
 Politique étrangère (n° 1/2022). Elle propose une analyse de l'ouvrage
-de John Arquilla, Bitskrieg: The New Challenge of Cyberwarfare (Polity
+de John Arquilla, *Bitskrieg: The New Challenge of Cyberwarfare* (Polity
 Press, 2021, 240 pages).\
 Plus de trente ans après son article *cyberwar is coming* écrit avec
 David Ronfeldt, John Arquilla prolonge son étude de la conflictualité à
