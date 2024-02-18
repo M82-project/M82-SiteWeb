@@ -1,9 +1,12 @@
 ---
 title: Cryptomonnaie nationale chinoise
+date: 2023-01-01
 ---
 > De la crainte d'une concurrence privée à la souveraineté monétaire, à
 > une souveraineté économique retrouvée grâce à une cryptomonnaie
 > nationale, l'expérience chinoise.
+
+![CNY](https://github.com/M82-project/M82-SiteWeb/blob/master/content/articles/Cryptomonnaie_nationale_chine/affiche.jpg)
 
 De fin 2019 à mai 2022, les chinois ont effectué 83 milliards de yuans
 en transactions marchandes (12 milliards d'euros) dans la monnaie
