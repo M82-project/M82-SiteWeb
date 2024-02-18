@@ -2,8 +2,8 @@
 title: 3CX: un exemple d'attaque par supply chain
 date: 2023-04-11
 author: 
-  - Sebastien Larinier
-  - Bertrand Boyer
+  - "Sebastien Larinier"
+  - "Bertrand Boyer"
 ---           
 
 *Cet article qui reprend la version originale de [lien](https://sebdraven.medium.com/3cx-une-attaque-par-supplychain-cb4d579aa675 "Seb sur Medium")
