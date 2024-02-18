@@ -112,16 +112,7 @@ Si la Chine est la première économie majeure à avoir lancé la
 digitalisation d'une devise nationale, elle n'est pas le seul pays à
 développer cette technologie. La première initiative a eu lieu aux
 Bahamas, dont la banque centrale avait lancée, en octobre 2020, le *Sand
-Dollars*. Selon un sondage de la *Bank for International Settlements* de
-fin 2019 auprès de 66 banques centrales majeures, 80
-
-Bahamas, avec une devise digitale lancée officiellement en 2020 ;
-
-Ukraine et Uruguay, avec des pilotes menés et finalisés en 2018 sans
-généralisation ;
-
-Caraïbes, Suède et Chine avec des pilotes lancés en 2020 et toujours en
-cours.
+Dollars*. 
 
 La Chine étant la seule grande puissance économique à développer à son
 échelle cette devise digitale, elle est également en position de définir
