@@ -1,6 +1,6 @@
 ---
 Title: Cyberpower
-date:2023-02-05
+date: 2023-02-05
 ---
 À l'invitation de l'IHEDN, Eviatar Matania a pu présenter son dernier
 livre, édité en français, Cyberpower (Israël, la révolution cyber et le
