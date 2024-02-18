@@ -1,5 +1,6 @@
 ---
 title: "Bitskrieg: The New Challenge of Cyberwarfare"
+date: 2022-12-01
 ---
 Cette recension a été publiée dans le numéro de printemps 2022 de
 Politique étrangère (n° 1/2022). Elle propose une analyse de l'ouvrage
@@ -14,6 +15,8 @@ de *bitskrieg*. John Arquilla est un auteur reconnu sur les questions de
 cyberdéfense et sa proximité avec les sphères du pouvoir aux États-Unis
 depuis plus de trente ans en fait un témoin précieux pour appréhender
 les approches stratégiques développées outre-Atlantique.
+
+![couverture](https://github.com/M82-project/M82-SiteWeb/blob/master/content/articles/Bitskrieg_review/bitskrieg.jpg)
 
 Il propose ici un travail qui oscille entre ses premiers constats des
 années 1990 et la situation actuelle. L'auteur porte un regard parfois
