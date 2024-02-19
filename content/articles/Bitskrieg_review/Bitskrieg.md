@@ -1,9 +1,11 @@
 ---
 title: "Bitskrieg: The New Challenge of Cyberwarfare"
+date: 2022-12-01
+author: Bertrand Boyer
 ---
 Cette recension a été publiée dans le numéro de printemps 2022 de
 Politique étrangère (n° 1/2022). Elle propose une analyse de l'ouvrage
-de John Arquilla, Bitskrieg: The New Challenge of Cyberwarfare (Polity
+de John Arquilla, *Bitskrieg: The New Challenge of Cyberwarfare* (Polity
 Press, 2021, 240 pages).\
 Plus de trente ans après son article *cyberwar is coming* écrit avec
 David Ronfeldt, John Arquilla prolonge son étude de la conflictualité à
@@ -14,6 +16,9 @@ de *bitskrieg*. John Arquilla est un auteur reconnu sur les questions de
 cyberdéfense et sa proximité avec les sphères du pouvoir aux États-Unis
 depuis plus de trente ans en fait un témoin précieux pour appréhender
 les approches stratégiques développées outre-Atlantique.
+
+
+![image alt text](/images/Bitskireg.jpg)
 
 Il propose ici un travail qui oscille entre ses premiers constats des
 années 1990 et la situation actuelle. L'auteur porte un regard parfois

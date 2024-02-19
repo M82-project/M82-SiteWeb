@@ -1,6 +1,7 @@
 ---
 title: Spamouflage ou l'échec de la masse ?
-date: 2023-02-17
+date: 2024-02-17
+author: Bertrand Boyer
 ---
 
 C'était à la fin du mois d'aout 2023, le groupe Meta, maison mère de Facebook et Instagram, annonçait, le démantèlement partiel d'un réseau diffusant de fausses informations et de la propagande pour le compte de la Chine. Cette campagne avait été partiellement identifiée dès la fin de 2019 par Graphika en particulier et qualifiée de "réseau de spam". Visiblement le réseau a continué son expansion conduisant les équipes de sécurité de Meta à identifier, sur Facebook, 7 704 comptes, 954 pages et 15 groupes liés à cette campagne, ainsi que 15 comptes sur Instagram. Les chiffres sont importants, au regard des campagnes habituellement détectées. La campagne était également active sur d'autres plateformes comme TikTok, Quora, YouTube, Reddit, Tumblr ou encore X.
@@ -21,6 +22,6 @@ D'abord qu'il ne faut pas sous estimer un acteur au prétexte qu'une de ses camp
 La masse ne fait pas tout mais elle contribue à créer un substrat informationnel si les contenus sont travaillés. Ainsi, les faux rapports scientifiques sur l'origine du COVID-19 qui ont été diffusés par cette campagne, n'ont pas disparu, ils "sédimentent" quelque part dans les abysses des Internets et ils resurgiront à l'appui des thèses complotistes ou autres. Ne pensons pas que l'information est fugace, qu'elle passe. Avec la numérisation, la capacité de sédimentation informationnelle augmente et les campagnes de désinformation se nourrissent de ce substrat.
 Ne pas confondre audience et efficacité. Les auteurs de ces campagnes étaient visiblement satisfaits (puisqu'elle a duré plusieurs années sans véritablement changé de mode opératoire). "Les chiffres étaient bons !" . Les opérateurs pouvaient certainement rendre compte à leur hiérarchie de "milliers de vues" et de "millions de like"…sans vraiment convaincre.
 
-Next step ?
+## Next step ?
 
 En matière de désinformation et de cybersécurité, les acteurs ne restent pas longtemps sur un échec. Au regard des évolutions des outils de génération de contenus et des possibilités de micro-ciblage cumulées à l'ajustement des narratifs, il y a fort à parier que la "masse" sera un facteur déterminant.

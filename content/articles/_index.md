@@ -1,5 +1,5 @@
 ---
-title: "Articles de blog"
+title: "Le blog M82"
 draft: false
 ---
 

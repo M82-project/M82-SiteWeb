@@ -1,35 +1,36 @@
 ---
-title: "Disarm, un pas vers la CTI pour lutter contre la désinformation"
+title: "DISARM, un pas vers la CTI pour lutter contre la désinformation"
+author: Bertrand Boyer et Anaïs Meunier
+date: 2023-11-01
 ---
-Disarm, un pas vers la CTI pour lutter contre la désinformation La
-multiplication des campagnes de désinformation et leur impact potentiel
+La multiplication des campagnes de désinformation et leur impact potentiel
 sur la société ont conduit de nombreuses organisations (universités,
-think tank, ONG, administrations, plateformes) à étudier et analyser
+*think tank*, ONG, administrations, plateformes) à étudier et analyser
 cette menace. Cet intérêt a résulté dans l'élaboration de schémas
 descriptifs permettant de mettre en lumière le comportement de ces
 acteurs et les objectifs de leurs campagnes. Cette démarche a ainsi pu
 se nourrir de la riche littérature et de l'expérience accumulée dans un
-autre champ d'analyse de la menace : la Cyber Threat Intelligence (CTI).
+autre champ d'analyse de la menace : la *Cyber Threat Intelligence* (CTI).
 
 Les éléments nécessaires à la création de campagnes de manipulation de
 l'information sont multiples : memes, narratifs, faux sites, et
-présentent des niveaux de complexités divers. A l'image des APT
-(Advanced Persistent Threat), les groupes qui conduisent ces opérations
+présentent des niveaux de complexités divers. A l'image des
+*Advanced Persistent Threat* APT, les groupes qui conduisent ces opérations
 ont donc des besoins très spécifiques et doivent mettre en place des
 infrastructures et des outils en amont de leurs actions. C'est
 précisément cette approche qui a conduit en 2011, le groupe Lockheed
-Martin à mettre en place sa célèbre Cyber kill chain. Cette
+Martin à mettre en place sa célèbre *Cyber kill chain*. Cette
 représentation décrit les étapes d'une attaque informatique. Ainsi,
 chaque étape permet de déduire les indices à détecter afin de contrer le
 plus en amont possible une intrusion dans un système d'information. Dans
 les campagnes informationnelles et typiquement celles conduites via les
 réseaux sociaux, cette approche est totalement transposable.
 
-Approche de la désinformation dans le cadre de la CTI
+## Approche de la désinformation dans le cadre de la CTI
 
-Une brève histoire des modèles en CTI
+### Une brève histoire des modèles en CTI
 
-La Cyber Threat Intelligence est une discipline qui vise à identifier et
+La *Cyber Threat Intelligence* est une discipline qui vise à identifier et
 analyser les menaces. Elle s'intéresse évidemment à l'analyse des
 données techniques liées à une attaque ou à des menaces connues mais
 également au contexte dans son ensemble pour, comme dans le domaine

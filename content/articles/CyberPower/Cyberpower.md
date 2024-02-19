@@ -19,6 +19,7 @@ tels que le rôle primordial de la cyberdéfense (la meilleure défense...
 c'est bien la défense) et le rôle prépondérant des agences de
 renseignement techniques pour la maîtrise et l'emploi de l'arme cyber.
 
+
 ![couverture](https://github.com/M82-project/M82-SiteWeb/blob/master/content/articles/CyberPower/51y%2Bo7a7RoL._SX195_.jpg)
 
 Dans un monde où la perception de l'arme cyber a basculé en 2010, pour
