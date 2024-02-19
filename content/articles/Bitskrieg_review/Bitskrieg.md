@@ -16,7 +16,7 @@ cyberdéfense et sa proximité avec les sphères du pouvoir aux États-Unis
 depuis plus de trente ans en fait un témoin précieux pour appréhender
 les approches stratégiques développées outre-Atlantique.
 
-![couverture](https://github.com/M82-project/M82-SiteWeb/blob/master/content/articles/Bitskrieg_review/bitskrieg.jpg)
+![couverture](https://github.com/M82-project/M82-SiteWeb/blob/master/content/articles/Bitskrieg_review/bitskrieg.jpg](https://github.com/sebdraven/M82-SiteWeb/blob/master/static/images/Bitskireg.jpg)
 
 Il propose ici un travail qui oscille entre ses premiers constats des
 années 1990 et la situation actuelle. L'auteur porte un regard parfois
