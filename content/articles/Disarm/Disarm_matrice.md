@@ -1,5 +1,7 @@
 ---
 title: "Disarm : une matrice pour décrire les campagnes d'influence"
+date: 2023-09-01
+author: Anaïs Meunier
 ---
 En octobre 2022, l'entreprise de cybersécurité américaine Mandiant a
 publié un article décrivant plusieurs campagnes d'influences semble-t-il
