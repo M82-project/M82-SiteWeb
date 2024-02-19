@@ -1,6 +1,7 @@
 ---
 title: "Bitskrieg: The New Challenge of Cyberwarfare"
 date: 2022-12-01
+author: Bertrand Boyer
 ---
 Cette recension a été publiée dans le numéro de printemps 2022 de
 Politique étrangère (n° 1/2022). Elle propose une analyse de l'ouvrage
