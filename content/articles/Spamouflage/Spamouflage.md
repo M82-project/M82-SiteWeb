@@ -22,6 +22,6 @@ D'abord qu'il ne faut pas sous estimer un acteur au prétexte qu'une de ses camp
 La masse ne fait pas tout mais elle contribue à créer un substrat informationnel si les contenus sont travaillés. Ainsi, les faux rapports scientifiques sur l'origine du COVID-19 qui ont été diffusés par cette campagne, n'ont pas disparu, ils "sédimentent" quelque part dans les abysses des Internets et ils resurgiront à l'appui des thèses complotistes ou autres. Ne pensons pas que l'information est fugace, qu'elle passe. Avec la numérisation, la capacité de sédimentation informationnelle augmente et les campagnes de désinformation se nourrissent de ce substrat.
 Ne pas confondre audience et efficacité. Les auteurs de ces campagnes étaient visiblement satisfaits (puisqu'elle a duré plusieurs années sans véritablement changé de mode opératoire). "Les chiffres étaient bons !" . Les opérateurs pouvaient certainement rendre compte à leur hiérarchie de "milliers de vues" et de "millions de like"…sans vraiment convaincre.
 
-Next step ?
+## Next step ?
 
 En matière de désinformation et de cybersécurité, les acteurs ne restent pas longtemps sur un échec. Au regard des évolutions des outils de génération de contenus et des possibilités de micro-ciblage cumulées à l'ajustement des narratifs, il y a fort à parier que la "masse" sera un facteur déterminant.
