@@ -1,5 +1,6 @@
 ---
 title: "Faux articles du Parisien"
+date: 2023-05-05
 ---
 Nombreux sont ceux qui ont été trompés par [ces articles et les ont
 relayés. D'ailleurs, certains se sont rendus compte de la supercherie et
