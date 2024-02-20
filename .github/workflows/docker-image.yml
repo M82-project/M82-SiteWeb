@@ -11,15 +11,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Build Hugo site
         uses: docker://hugomods/hugo  # Remplacez par la version de Hugo que vous souhaitez utiliser
         with:
-          args: "--minify --destination public"
+          args: "server --bind 0.0.0.0 --baseURL=http://localhost --port 80"
 
       - name: Archive Production Artifact
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           name: hugo-site
           path: public/
