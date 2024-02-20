@@ -32,7 +32,7 @@ Les experts de Sophos ne se sont pas lancés dans une attribution directe. Ils e
 - Les attaquants ont pu délibérément utiliser des clés et des shellcode connus pour faire un false flag;
 - Les prochains jours, mois permettront peut-être d'avoir plus de détails sur cette attaque (ou pas).
 
-Une chose est certaine si l'on regarde la chronologie complète de l'attaque, notamment chez [Sentinel One](href{https://www.sentinelone.com/blog/smoothoperator-ongoing-campaign-trojanizes-3cx-software-in-software-supply-chain-attack/), l'infrastructure est là depuis février 2022.
+Une chose est certaine si l'on regarde la chronologie complète de l'attaque, notamment chez [Sentinel One](https://www.sentinelone.com/blog/smoothoperator-ongoing-campaign-trojanizes-3cx-software-in-software-supply-chain-attack/), l'infrastructure est là depuis février 2022.
 Les premiers déploiements de la version backdoorées est 22 mars 2023.
 De plus, certains artefacts, comme des dates de compilation, [remontent à janvier 2023](https://twitter.com/Hexacorn/status/1641465612386856970?s=20).
 L'attaque a dont été donc préparée de longue date par un acteur sachant exactement ce qu'il faisait. Cette notion de préparation et de ciblage ne laisse pas beaucoup de doute sur la nature étatique de l'attaquant et sur sa capacité à toucher de nombreuses victimes
