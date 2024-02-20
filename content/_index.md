@@ -11,9 +11,9 @@ M82_Project, a pour objet principal de faciliter la compréhension et la prise e
 
 L’activité du M82_project poursuit ainsi des objectifs suivants :
 
-- De veille des domaines d’intérêt : elle propose une veille technique et scientifique, et en assure la capitalisation ainsi que le partage de ressources d’intérêt ;
+- de veille des domaines d’intérêt. Elle propose une veille technique et scientifique et en assure la capitalisation ainsi que le partage de ressources d’intérêt.
 
-- De recherche et conseil en produisant des notes, analyses et documents (sous tous supports) dans le cadre de projets thématiques mais également par l’analyse de besoin, la recherche de financement, la réponse à appel d’offre national ou international, la mise à disposition de moyens propres ou fournis par ses membres (plate-formes, outils, documentation), la constitution d’une structure ad-hoc (groupement d’intérêt scientifique, consortium, partenariat, etc). M82 peut porter des projets de recherche en son nom ;
+- De recherche et conseil en produisant des notes, analyses et documents (sous tous supports) dans le cadre de projets thématiques mais également par l’analyse de besoin, la recherche de financement, la réponse à appel d’offre national ou international, la mise à disposition de moyens propres ou fournis par ses membres (plate-formes, outils, documentation), la constitution d’une structure ad-hoc (groupement d’intérêt scientifique, consortium, partenariat, etc). M82 peut porter des projets de recherche en son nom.
 
 - D’animation de réseau et de diffusion de la connaissance et de l’expertise : M82 participe à des événements en France ou à l’étranger, elle peut en organiser, contribuer à des publications en France ou à l’étranger, ou peut en éditer, et conduire des actions de sensibilisation ou d’appui à la décision.
 
