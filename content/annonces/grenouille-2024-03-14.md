@@ -2,6 +2,8 @@
 title: Les rencontres de la grenouille, 14 mars 2024
 date: 2024-02-2024
 tags: [grenouille,news]
+cascade:
+  featured_image: 'images/banniere_grenouille.png'
 ---
 
 Soirée spéciale adhérents (si vous n'êtes pas membre du M82_project, vous pouvez nous rejoindre ici : <https://www.helloasso.com/associations/m82-project/adhesions/adhesion-m82-project-2023)>
