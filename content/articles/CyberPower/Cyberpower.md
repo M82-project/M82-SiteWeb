@@ -19,8 +19,7 @@ tels que le rôle primordial de la cyberdéfense (la meilleure défense...
 c'est bien la défense) et le rôle prépondérant des agences de
 renseignement techniques pour la maîtrise et l'emploi de l'arme cyber.
 
-
-![couverture](https://github.com/M82-project/M82-SiteWeb/blob/master/content/articles/CyberPower/51y%2Bo7a7RoL._SX195_.jpg)
+![image alt text](/images/51y%2Bo7a7RoL._SX195_.jpg)
 
 Dans un monde où la perception de l'arme cyber a basculé en 2010, pour
 devenir une arme d'emploi avec le ver Stuxnet, Eviatar s'attache à
@@ -34,4 +33,4 @@ systèmes, la développement de la résilience et de la défense nationale
 mais qui prennent plus de sens au travers de l'expérience de l'auteur.
 
 Découvrez l'intégralité de
-[la conférence est ici](https://youtu.be/MEaIojimLJ)
+[la conférence ici](https://youtu.be/MEaIojimLJ)
