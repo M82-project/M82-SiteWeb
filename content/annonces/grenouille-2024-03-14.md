@@ -1,6 +1,6 @@
 ---
 title: Les rencontres de la grenouille, 14 mars 2024
-date: 2024-02-2024
+date: 2024-02-20
 tags: [grenouille,news]
 featured_image: 'images/banniere_grenouille.png'
 draft: false
