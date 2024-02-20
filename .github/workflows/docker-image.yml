@@ -12,6 +12,9 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          # Initialisez les sous-modules et mettez-les à jour récursivement
+          submodules: 'recursive'
 
       - name: Build Hugo site
         uses: docker://hugomods/hugo  # Remplacez par la version de Hugo que vous souhaitez utiliser
