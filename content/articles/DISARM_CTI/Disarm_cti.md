@@ -86,7 +86,7 @@ rarement l'outil préféré des équipes de réponse à incidents. Pourtant
 compatible avec une Cyber Kill Chain les résultats sont parfois peu
 lisibles. Beaucoup y préfèreront le framework MITRE ATT&CK.
 
-MITRE ATT&CK, la matrice des matrices
+## MITRE ATT&CK, la matrice des matrices
 
 La démarche proposée par MITRE ATT&CK s'appuie sur une cartographie
 détaillée des actions que doit entreprendre un attaquant pour conduire
@@ -190,7 +190,7 @@ des campagnes de désinformation peut rapidement gagner en maturité et
 développer des méthodes de détection et de remédiation qui reposent sur
 une analyse objective des techniques mises en œuvre par les attaquants.
 
-Étudier la désinformation
+## Étudier la désinformation
 
 Les campagnes dmanipulation de l'information en ligne peuvent prendre de
 multiples formes. À titre d'exemple, une campagne d'astroturfing demande
@@ -219,7 +219,7 @@ présence d'éléments informationnels au sein d'attaques cyber. C'est le
 cas de la matrice Disarm qui capitalise sur le savoir-faire de la
 matrice MITRE ATT&CK dont elle est largement inspirée.
 
-De quoi parle-t-on ?
+### De quoi parle-t-on ?
 
 Créée en 2019, la matrice AMITT est un cadre d'analyse qui permet de
 décrire et de comprendre les incidents (terminologie issue du cyber) de
@@ -253,12 +253,12 @@ pérenne, interopérable et ouvert.
 de partager de l'information structurée entre les acteurs de la lutte
 contre les campagnes de manipulation de l'information.
 
-Disarm
+### Disarm
 
 La matrice Disarm est structurée en 3 éléments principaux : phases,
 étapes (ou tactiques) et techniques, du plus macro au plus micro.
 
-Les phases
+#### Les phases
 
 Les campagnes d'influences informationnelles sont composées en général
 de 4 phases qui correspondent aux séquences de mise en œuvre de la
@@ -268,25 +268,25 @@ techniques associées.
 Figure 2. Structuration des tactiques, techniques et procédures au sein
 de la matrice Disarm
 
-La planification permet de visualiser le but de la campagne ou de
+- La planification permet de visualiser le but de la campagne ou de
 l'incident. Elle définit les moyens nécessaires à sa mise en place.
 Cette étape se concentre sur les résultats attendus par les acteurs
 malveillants. Dans le domaine militaire on parle d'état final recherché
 (EFR).
 
-La préparation regroupe les activités menées avant l'exécution de la
+- La préparation regroupe les activités menées avant l'exécution de la
 campagne : le développement d'un écosystème nécessaire pour soutenir une
 action (personnes, réseau, canaux, contenu, etc.).
 
-L'exécution consiste en la réalisation de l'action, de l'exposition
+- L'exécution consiste en la réalisation de l'action, de l'exposition
 initiale à la conclusion ou au maintien de la présence en cas de menace
 persistante (on notera ici la similitude avec les attaques informatiques
 ou l'on évoque la persistance comme un facteur central d'une opération).
 
-L'évaluation est une étape nécessaire qui détermine l'efficacité de
+- L'évaluation est une étape nécessaire qui détermine l'efficacité de
 l'action.
 
-Les étapes (ou tactiques)
+#### Les étapes (ou tactiques)
 
 Les phases sont découpées en tactiques. Elles sont aujourd'hui au nombre
 de seize et leur nombre peut changer en fonction de la mise à jour de la
