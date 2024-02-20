@@ -6,4 +6,4 @@
   HUGO_VERSION = "v0.121.1"
 
 [context.production]
-  command = "hugo --gc --minify"
+  command = "hugo --gc --minify --baseURL https://chipper-klepon-ab7771.netlify.app"
