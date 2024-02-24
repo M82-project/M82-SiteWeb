@@ -35,5 +35,5 @@ sources:
 
 [le rapport de META - Adversarial Threat Report, August 2023](https://scontent-cdg4-2.xx.fbcdn.net/v/t39.8562-6/10000000_878173163681285_2523028760863660247_n.pdf?_nc_cat=100&ccb=1-7&_nc_sid=b8d81d&_nc_ohc=q0jvBlh_n-AAX9Tk5DS&_nc_ht=scontent-cdg4-2.xx&oh=00_AfBAOLShfPhGmPngsjPdW3m6b6QJ6hlWDchU8u7Cpbpe8Q&oe=65DE8348)
 
-[Graphika Report - Spamouflage - 2029](https://graphika.com/reports/spamouflage)
+[Graphika Report - Spamouflage - 2019](https://graphika.com/reports/spamouflage)
 
