@@ -14,7 +14,7 @@ theme = "gohugo-theme-ananke"
 [languages]
     [languages.fr]
     title = "M82 Project"
-    weight = 1
+    weight = 5
     contentDir = "content"
 
 [[params.ananke_socials]]

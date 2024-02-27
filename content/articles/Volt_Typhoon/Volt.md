@@ -26,6 +26,9 @@ pourrait chercher à se prépositionner à des fins de sabotage
 campaign is pursuing development of capabilities that could disrupt
 critical communications infrastructure between the United States and
 Asia region during future crises. »](https://www.cert.ssi.gouv.fr/cti/CERTFR-2021-CTI-012/)
+
+![image FlorianVolt](/images/florianVolt.jpg)
+
 Ce n'est pas la première que la Chine est accusée de se livrer à des
 opérations de pré positionnement à des fins de sabotage. En 2021,
 Recorded Future rapportait ainsi que le mode opératoire *RedEcho* aurait
@@ -42,6 +45,7 @@ indiennes](https://www.intrinsec.com/wp-content/uploads/2023/04/Intrinsec-TLP_Wh
 l'énergie indien en 2022, utilisant notamment des objets connectés
 compromit comme serveurs de commande et de contrôle (C2) et aurait
 utilisé à cette même fin l'outil légitime [FastReverseProxy](https://www.microsoft.com/en-us/security/blog/2023/05/24/volt-typhoon-targets-us-critical-infrastructure-with-living-off-the-land-techniques/)
+
 En avril 2020, un acteur, associé à la Chine par l'éditeur de solution
 de cybersécurité Cycraft Technology, se serait, quant à lui, livré à des
 opérations de sabotage d'infrastructures vitales à Taiwan, en marge de
@@ -59,7 +63,11 @@ chinoise. En pareille hypothèse, Guam constituerait à n'en pas douter
 une cible de choix pour Pékin. Ce territoire des États-Unis constitue en
 effet une pièce maitresse du
 [dispositif militaire américain](https://en.wikipedia.org/wiki/Andersen_Air_Force_Base) dans le Pacifique ainsi qu'un nœud de communication
-majeur. Comme le rapporte le New York Times, Guam serait en particulier
+majeur. 
+
+![image FelixAiméTweet](/images/FelixVault.jpg)
+
+Comme le rapporte le New York Times, Guam serait en particulier
 au centre de toute [réponse américaine en cas d'invasion de Taiwan](https://media.defense.gov/2023/May/24/2003229517/-1/-1/0/CSA_Living_off_the_Land.PDF).
 Au-delà de la possible finalité de ses campagnes, ce sont les TTPs de
 *Volt Typhoon* qui interpellent. En effet, ce mode opératoire semble
@@ -96,6 +104,7 @@ Microsoft rapporte ainsi que :
 conducting hands-on-keyboard activity via the command line. Some of
 these commands appear to be exploratory or experimental, as the
 operators adjust and repeat them multiple times"](https://www.recordedfuture.com/continued-targeting-of-indian-power-grid-assets)
+
 
 En outre, les commandes exécutées par *Volt Typhoon* apparaissent
 particulièrement bruyantes :
