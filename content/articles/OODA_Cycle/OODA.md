@@ -16,7 +16,7 @@ Le concept de boucle OODA (Observer, Orienter, Décider, Agir) fait son appariti
 
 Il s’agit d’entrer dans le cycle de décision de l’adversaire. Bien que calquées sur le modèle du combat aérien, les idées de Boyd s’appuient sur de nombreux exemples historiques. Il puise ainsi dans l’histoire de l’empire mongol l’idée selon laquelle l’information est au centre du pouvoir militaire (comme d’ailleurs John Arquilla quelques années plus tard), il étudiera également l’épopée napoléonienne ainsi que la théorie du Blietzkrieg. Jamais publiées, les théories de Boyd sont regroupées sous le nom de Discourse on Winning and Losing. Ces idées ont été propagées par des présentations réalisées au début des années 80. Il aurait inspiré les opérations américaines lors de la première guerre du Golfe en 1991 ainsi que la notion de « guerre de quatrième génération » portée par William Lind.
 
-![OODA](/static/images/1599px-OODA.Boyd.svg.png)
+![OODA](/images/1599px-OODA.Boyd.svg.png)
 [Source:](https://en.wikipedia.org/wiki/File:OODA.Boyd.svg)
 
 Développé dans le cadre de la stratégie militaire (et particulièrement aérienne), le concept est aujourd’hui plus largement réemployé dans l’économie, le commerce et plus généralement dans l’analyse des systèmes dynamiques. Naturellement, le champ de la sécurité informatique ne pouvait pas faire l’impasse sur ce concept. *Bruce Schneier**, dans [*The Future of Incident Response*](https://www.schneier.com/blog/archives/2014/11/the_future_of_i.html) évoque le concept de OODA pour la réponse à incident, et de nombreux autres publications y font référence. La question principale de la réponse à incident est en fait un des principes stratégiques les plus anciens : [*la liberté d’action*](http://lechoduchampdebataille.blogspot.fr/2012/12/le-principe-de-liberte-daction-1.html). L’initiative n’étant qu’un moyen pour le niveau tactique d’acquérir ou de conserver cette liberté d’action.
@@ -25,7 +25,7 @@ Développé dans le cadre de la stratégie militaire (et particulièrement aéri
 
 Lieutenant-général JOMINI, Histoire critique et militaire des guerres de Frédéric II, Paris, Magimel, Anselin et Pochard, 3e ed.1818, Tome III, p.345.
 
-![BruceLee](/static/images/BruceLEE.jpg)
+![BruceLee](/images/BruceLEE.jpg)
 
 # Revenons à Bruce…
 
@@ -53,7 +53,7 @@ Avec la génération d’hypothèses, le cycle perd, en outre, de son intérêt,
 
 Pour choisir une famille d’options, il convient de limiter le besoin en information, c’est une façon de sortir de la boucle infinie. En clair, décider tôt du “style” de réponse au regard de l’information disponible et ensuite bâtir des modes d’action pour conduire la réponse choisie.
 
-![F3EAD](/static/images/F3EAD.jpg)
+![F3EAD](/images/F3EAD.jpg)
 
 LE F3EAD issu du modèle de ciblage des HVI
 
