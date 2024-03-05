@@ -1,14 +1,14 @@
 ---
-title: "Disarm : une matrice pour décrire les campagnes d'influence"
+title: "DISARM : une matrice pour décrire les campagnes d'influence"
 date: 2023-09-01
 author: Anaïs Meunier
 ---
 En octobre 2022, l'entreprise de cybersécurité américaine Mandiant a
-publié un article décrivant plusieurs campagnes d'influences semble-t-il
+publié un [article](https://www.mandiant.com/resources/blog/prc-dragonbridge-influence-elections) décrivant plusieurs campagnes d'influences semble-t-il
 d'origine chinoise, visant les États-Unis. Les éléments relevés
 décrivaient trois narratifs différents portés par le même acteur.
 
-Cet acteur, *Dragonbridge*, a été observé dès 2019 par Mandiant qui a
+Cet acteur, *Dragonbridge*, a été observé dès 2019 par [Mandiant](https://www.zdnet.com/article/dragonbridge-hackers-target-rare-earth-miners-encourages-protests-to-disrupt-production/) qui a
 constaté de nombreuses campagnes d'influence portées par ce réseau de
 milliers de comptes présents sur de nombreux réseaux sociaux et canaux
 de communication. Si, au départ, ce groupe a surtout mené des campagnes
@@ -43,14 +43,14 @@ l'aune de la matrice Disarm on se rend compte que, même s'ils peuvent
 être nouveaux dans le cadre de leur exploitation par *Dragonbridge*, tous
 les éléments sont déjà présents dans DISARM.
 
-DISARM est une matrice open-source basée sur le comportement des acteurs
+[DISARM](https://disarmframework.herokuapp.com/) est une matrice open-source basée sur le comportement des acteurs
 malveillants qui permet de visualiser et de traduire une campagne
 d'influence sous la forme de TTPs. Cette traduction permet, à l'instar
 de la matrice MITRE ATT&CK utilisée dans le cadre de la *Cyber Threat
 Intelligence* (CTI, collecte et capitalisation de renseignements sur les
 campagnes d'attaques cyber) d'enregistrer ces éléments et d'alimenter
-des outils d'archivage et d'exploitation de type MISP ou bien encore
-OpenCTI.
+des outils d'archivage et d'exploitation de type [MISP](https://www.misp-project.org/) ou bien encore
+[OpenCTI](https://www.ssi.gouv.fr/actualite/opencti-la-solution-libre-pour-traiter-et-partager-la-connaissance-de-la-cybermenace/).
 
 La matrice DISARM présente de nombreux intérêts dans la description de
 campagnes d'influence ou d'opérations informationnelles. La description
@@ -163,7 +163,7 @@ Des comptes Dragonbridge ont publié une vidéo en anglais sur plusieurs
 plateformes. Le contenu de cette vidéo vise à décourager les Américains
 de voter lors des prochaines élections de mi-mandat aux États-Unis.
 
-Remarque : il est logique qu'avant de publier une vidéo, il faille la
+>Remarque : il est logique qu'avant de publier une vidéo, il faille la
 produire. L'intérêt de le faire apparaître dans la matrice c'est que
 l'on peut ainsi se situer temporellement dans la campagne. Produire une
 vidéo, commencer à la diffuser, faire en sorte que celle-ci se retrouve
@@ -265,7 +265,7 @@ alleged malicious cyber activity* »
 Réutilisation des faux profils de réseaux sociaux pour promouvoir
 d'autres campagnes de Dragonbridge.
 
-Remarque : Si certaines TTPs semblent faire doublon ou répéter les mêmes
+>Remarque : Si certaines TTPs semblent faire doublon ou répéter les mêmes
 éléments, on observe cependant que, dans la globalité de la matrice,
 elles sont en fait complémentaires. Finalement, c'est la place qu'elles
 prennent dans la temporalité de la campagne qui explique ces

@@ -50,6 +50,8 @@ identifie un adversaire, des capacités déployées, une infrastructure et
 une victime. Ces quatre facteurs constituent les quatre angles du
 diamant. Ces évènements sont rassemblés pour constituer une campagne
 
+![modèle Diamant](/images/FIG_1_DIAMANT.jpg)
+
 (fig 1 : source Threat Intel 101 --- Le modèle en Diamant, Sekoia
 
 https://medium.com/cyberthreatintel/threat-intel-101-le-mod
@@ -88,7 +90,7 @@ lisibles. Beaucoup y préfèreront le framework MITRE ATT&CK.
 
 ## MITRE ATT&CK, la matrice des matrices
 
-La démarche proposée par MITRE ATT&CK s'appuie sur une cartographie
+La démarche proposée par [MITRE ATT&CK](https://attack.mitre.org/) s'appuie sur une cartographie
 détaillée des actions que doit entreprendre un attaquant pour conduire
 une intrusion sur un système d'information. C'est donc une démarche
 centrée sur le comportement de l'attaquant et sa compréhension plus que
@@ -116,46 +118,33 @@ précisément, doit atteindre dans le système informatique visé suivant
 son schéma d'attaque. Initialement au nombre de 9 puis de 11 MITRE
 distingue aujourd'hui les tactiques suivantes :
 
-Reconnaissance (10 techniques -- active scanning, search open technical
++ **Reconnaissance** (10 techniques -- active scanning, search open technical
 database, gather victim network information, etc.) ;
-
-Ressource development (7 techniques -- acquire infrastructure,
++ **Ressource development** (7 techniques -- acquire infrastructure,
 compromise accounts, etc.) ;
-
-Initial access (9 techniques -- phising, supply chain compromise, valid
++ **Initial access** (9 techniques -- phising, supply chain compromise, valid
 accounts, etc. ;
-
-Execution (13 techniques -- command and scriptying interpreter, native
++ **Execution** (13 techniques -- command and scriptying interpreter, native
 API, User execution, etc.) ;
-
-Persistence (19 techniques -- external remove service, create account,
++ **Persistence** (19 techniques -- external remove service, create account,
 implant internal image, etc.) ;
-
-Privilege escalation (13 techniques -- boot or logon autostart
++ **Privilege escalation** (13 techniques -- boot or logon autostart
 execution, hijack execution flow, etc.) ;
-
-Defense evasion (42 techniques -- access token manipulation, deploy
++ **Defense evasion** (42 techniques -- access token manipulation, deploy
 container, rootkit, XSL script processing, etc.) ;
-
-Credential access (17 techniques -- brute force, forge web credentials,
++ **Credential access** (17 techniques -- brute force, forge web credentials,
 input capture, etc.) ;
-
-Discovery (30 techniques -- cloud service discovery, account discovery,
++ **Discovery** (30 techniques -- cloud service discovery, account discovery,
 domain trust discovery, etc.) ;
-
-Lateral movement (9 techniques -- exploitaiton of remote service,
++ **Lateral movement** (9 techniques -- exploitaiton of remote service,
 lateral tool transfer, etc.) ;
-
-Collection (17 techniques -- automated collection, audio capture, screen
++ **Collection** (17 techniques -- automated collection, audio capture, screen
 capture, email collection, etc.) ;
-
-Command and control (16 techniques -- data obfuscation, proxy, remote
++ **Command and control** (16 techniques -- data obfuscation, proxy, remote
 access software, encrypted channel, etc.) ;
-
-Exfiltration (9 techniques -- exfiltration over C2 channel, exfiltration
++ **Exfiltration** (9 techniques -- exfiltration over C2 channel, exfiltration
 over web service, exfiltration over physical medium, etc.) ;
-
-Impact (13 techniques -- account removal, data destruction, data
++ **Impact** (13 techniques -- account removal, data destruction, data
 manipulation, defacement, etc.).
 
 Chaque tactique donne lieu à une cartographie de techniques que nous
@@ -168,20 +157,17 @@ bénéficier de l'expérience acquise dans le domaine de la CTI. En
 particulier en important la notion de TTPs et en s'appuyant sur les
 qualités éprouvées de MITRE ATT&CK que sont :
 
-la souplesse d'utilisation : la matrice est régulièrement mise à jour
++ **la souplesse d'utilisation** : la matrice est régulièrement mise à jour
 afin de correspondre à l'évolution des pratiques des acteurs
 malveillants ;
-
-une approche heuristique et l'association d'une base de connaissance.
++ **une approche heuristique** et l'association d'une base de connaissance.
 Les TTPs sont liés entre eux. En découvrir un c'est comprendre où il se
 place dans l'intégralité d'une campagne, et ainsi anticiper ce que l'on
 peut encore attendre ou ce qu'il peut déjà s'être passé en amont.
-
-la compréhension du comportement d'un acteur, en liant des détections
++ **la compréhension du comportement d'un acteur**, en liant des détections
 pour mieux évaluer ou estimer les objectifs stratégiques de la campagne
 ;
-
-la qualification d'une campagne dans son ampleur, dans son coût pour
++ **la qualification d'une campagne** dans son ampleur, dans son coût pour
 l'attaquant en évaluant la difficulté pour lui de mettre en œuvre
 certaines techniques.
 
@@ -221,7 +207,7 @@ matrice MITRE ATT&CK dont elle est largement inspirée.
 
 ### De quoi parle-t-on ?
 
-Créée en 2019, la matrice AMITT est un cadre d'analyse qui permet de
+Créée en 2019, [la matrice AMITT](https://github.com/cogsec-collaborative/AMITT) est un cadre d'analyse qui permet de
 décrire et de comprendre les incidents (terminologie issue du cyber) de
 désinformation. Le Minsifosec est un groupe de travail qui a réfléchi et
 établi des standards pour permettre le partage de l'information dans le
@@ -239,18 +225,14 @@ par l'intermédiaire de tactiques, techniques et procédures (TTP).
 
 À l'instar du MITRE ATT&CK, Disarm présente de nombreux avantages dans
 le cadre de la description des campagnes. Elle permet :
-
-d'imputer ou, au moins, de caractériser un acteur par la récurrence des
++ d'imputer ou, au moins, de caractériser un acteur par la récurrence des
 techniques, tactiques ou procédures qu'il emploie lors de ses campagnes
 ;
-
-de comprendre le niveau d'effort et des moyens à la disposition d'un
++ de comprendre le niveau d'effort et des moyens à la disposition d'un
 acteur malveillant ;
-
-de capitaliser des campagnes et incidents dans un modèle stable,
++ de capitaliser des campagnes et incidents dans un modèle stable,
 pérenne, interopérable et ouvert.
-
-de partager de l'information structurée entre les acteurs de la lutte
++ de partager de l'information structurée entre les acteurs de la lutte
 contre les campagnes de manipulation de l'information.
 
 ### Disarm
@@ -258,12 +240,15 @@ contre les campagnes de manipulation de l'information.
 La matrice Disarm est structurée en 3 éléments principaux : phases,
 étapes (ou tactiques) et techniques, du plus macro au plus micro.
 
+
 #### Les phases
 
 Les campagnes d'influences informationnelles sont composées en général
 de 4 phases qui correspondent aux séquences de mise en œuvre de la
 campagne. Chaque phase est le regroupement de tactiques et de leurs
 techniques associées.
+
+![FIG 2](/images/DISARM-TTP.png)
 
 Figure 2. Structuration des tactiques, techniques et procédures au sein
 de la matrice Disarm
@@ -293,182 +278,27 @@ de seize et leur nombre peut changer en fonction de la mise à jour de la
 matrice (à l'instar d'ATT&CK) pour correspondre aux évolutions des
 pratiques des acteurs malveillants.
 
-Phase
-
-Tactique
-
-Description de la tactique
-
-Objectif de la tactique
-
-Planification
-
-Planification de la stratégie
-
-Définir l'état final recherché, c'est-à-dire l'ensemble des conditions
-requises permettant de déclarer l'accomplissement des objectifs
-stratégiques.
-
-Mettre en cohérence les audiences ciblées et les finalités stratégiques
-de la campagne.
-
+|**Phase**|**Tactique**|**Description de la tactique**|**Objectif de la tactique**|
+|--------|----------|--------|--------|
+|    Planification    |    Planification de la stratégie    |   Définir l'état final recherché, c'est-à-dire l'ensemble des conditions requises permettant de déclarer l'accomplissement des objectifs stratégiques.     |   Mettre en cohérence les audiences ciblées et les finalités stratégiques de la campagne.    |
+|         |     Planification des objectifs   |    Planifier des objectifs stratégiques liés à l'exécution de tactiques nécessaires à leur réalisation.    |    Définir des objectifs intermédiaires permettant d'atteindre l'état final recherché.    |
+|         |    Analyse des publics cibles    |    Identifier et analyser des audiences ciblées, c'est-à-dire l'ensemble de leurs attributs qu'une opération d'influence pourrait incorporer dans sa stratégie vers celles-ci.   |    Permettre la personnalisation des contenus et de la stratégie d'influence selon l'analyse obtenue.    |
+|    Préparation    |    Développement des récits    |    Promouvoir et renforcer des récits généraux en s'appuyant sur de nombreux récits locaux, diffusés régulièrement (à bas bruit en général) via les différents artefacts créés pour la campagne.    |    Occuper et dominer le débat numérique en imposant progressivement des récits phares sur la société.    |
+|         |    Fabrication des contenus   |    Créer ou acquérir des textes, images et tous les contenus nécessaires au soutien des récits généraux et des récits secondaires.    |    Soutenir la mise en place des récits phares à l'aide de contenus crédibles.    |
+|         |    Mise en place des canaux de communication    |    Créer, modifier ou compromettre des outils de messagerie (comptes de réseaux sociaux, chaînes de médias, personnel opérationnel).    |    Faire la promotion des messages directement à l'audience ciblée sans dépendre d'entités externes.    |
+|         |    Mise en place des canaux de légitimation des récits    |    Établir des ressources dédiées à la légitimation des récits (faux sites news, faux experts, sources vérifiées compromises).    |    La création de relais informationnels soutient la légitimation des récits.    |
+|         |    Microciblage des audiences clefs   |    Cibler des groupes de population très spécifiques via des contenus localisés, les fonctionnalités publicitaires des plateformes ou la création de chambres d'écho.    |     Il vise à garantir une meilleure perception des récits de la part de certaines audiences et à consolider voire polariser les opinions d'audiences clefs.    |
+|         |    Sélection des canaux selon leur usage    |    Sélectionner, après étude de marché, des vecteurs des différents narratifs ou artefacts créés, que ce soit des plateformes (réseaux sociaux, plateformes en ligne de partage de vidéos, hashtags, etc.), des médias traditionnels (télévision, journaux), etc. Étudier les fonctionnalités et l'accessibilité des plateformes.    |    Déterminer quels seront les canaux et leurs usages qui maximiseront la diffusion des narratifs et artefacts de l'opération d'influence.    |
+|    Exécution    |   Amorçage de la campagne   |    Publier du contenu à une petite échelle ciblée en amont de la publication à grande échelle.    |    Tester l'efficacité du dispositif mis en place et affiner les messages (A/B testing, utilisation de black SEO, etc.)    |
+|         |    Diffusion du contenu vers le grand public    |    Diffuser largement du contenu à l'ensemble du public (diffusion de narratifs et artefacts sur les réseaux sociaux, publication d'articles, rédaction de commentaires, etc.).    |     Atteindre les publics ciblés.    |
+|         | Maximisation de l'exposition|Amplifier via des stratégies cross-plateformes, de flooding et via des réseaux de trolls ou de bots. | Assurer un maximum d'effets de la campagne.|
+|         | Mise en œuvre d'actions agressives en ligne | Nuire à ses adversaires dans les espaces en ligne par le biais du harcèlement, de la divulgation d'informations privées et du contrôle de l'espace d'information. | Supprimer toute opposition et remise en question de la campagne. |
+|         | Mise en œuvre d'actions hors ligne | Inciter les utilisateurs à s'engager physiquement : de l'appel à manifester à l'achat de marchandises en passant par l'action violente. |  Faire basculer la campagne virtuelle dans le monde réel et toucher de nouvelles audiences.|
+|         | Persistance dans l'environnement informationnel | Poursuite del'amplification de narratifs et effacement des traces (dissimulation des moyens employés, de l'identité des acteurs), même si l'événement principal est terminé.| Assurer la continuité de la campagne sur le long-terme.|
+| Évaluation | Évaluation de l'efficacité des actions | Évaluer l'efficacité des actions |      |
 ​
 
-Planification des objectifs
-
-Planifier des objectifs stratégiques liés à l'exécution de tactiques
-nécessaires à leur réalisation.
-
-Définir des objectifs intermédiaires permettant d'atteindre l'état final
-recherché.
-
-​
-
-Analyse des publics cibles
-
-Identifier et analyser des audiences ciblées, c'est-à-dire l'ensemble de
-leurs attributs qu'une opération d'influence pourrait incorporer dans sa
-stratégie vers celles-ci.
-
-Permettre la personnalisation des contenus et de la stratégie
-d'influence selon l'analyse obtenue.
-
-Préparation
-
-Développement des récits
-
-Promouvoir et renforcer des récits généraux en s'appuyant sur de
-nombreux récits locaux, diffusés régulièrement (à bas bruit en général)
-via les différents artefacts créés pour la campagne.
-
-Occuper et dominer le débat numérique en imposant progressivement des
-récits phares sur la société.
-
-​
-
-Fabrication des contenus
-
-Créer ou acquérir des textes, images et tous les contenus nécessaires au
-soutien des récits généraux et des récits secondaires.
-
-Soutenir la mise en place des récits phares à l'aide de contenus
-crédibles.
-
-​
-
-Mise en place des canaux de communication
-
-Créer, modifier ou compromettre des outils de messagerie (comptes de
-réseaux sociaux, chaînes de médias, personnel opérationnel).
-
-Faire la promotion des messages directement à l'audience ciblée sans
-dépendre d'entités externes.
-
-​
-
-Mise en place des canaux de légitimation des récits
-
-Établir des ressources dédiées à la légitimation des récits (faux sites
-news, faux experts, sources vérifiées compromises).
-
-La création de relais informationnels soutient la légitimation des
-récits.
-
-​
-
-Microciblage des audiences clefs
-
-Cibler des groupes de population très spécifiques via des contenus
-localisés, les fonctionnalités publicitaires des plateformes ou la
-création de chambres d'écho.
-
-Il vise à garantir une meilleure perception des récits de la part de
-certaines audiences et à consolider voire polariser les opinions
-d'audiences clefs.
-
-​
-
-Sélection des canaux selon leur usage
-
-Sélectionner, après étude de marché, des vecteurs des différents
-narratifs ou artefacts créés, que ce soit des plateformes (réseaux
-sociaux, plateformes en ligne de partage de vidéos, hashtags, etc.), des
-médias traditionnels (télévision, journaux), etc. Étudier les
-fonctionnalités et l'accessibilité des plateformes.
-
-Déterminer quels seront les canaux et leurs usages qui maximiseront la
-diffusion des narratifs et artefacts de l'opération d'influence.
-
-Exécution
-
-Amorçage de la campagne
-
-Publier du contenu à une petite échelle ciblée en amont de la
-publication à grande échelle.
-
-Tester l'efficacité du dispositif mis en place et affiner les messages
-(A/B testing, utilisation de black SEO, etc.)
-
-​
-
-Diffusion du contenu vers le grand public
-
-Diffuser largement du contenu à l'ensemble du public (diffusion de
-narratifs et artefacts sur les réseaux sociaux, publication d'articles,
-rédaction de commentaires, etc.).
-
-Atteindre les publics ciblés.
-
-​
-
-Maximisation de l'exposition
-
-Amplifier via des stratégies cross-plateformes, de flooding et via des
-réseaux de trolls ou de bots.
-
-Assurer un maximum d'effets de la campagne.
-
-​
-
-Mise en œuvre d'actions agressives en ligne
-
-Nuire à ses adversaires dans les espaces en ligne par le biais du
-harcèlement, de la divulgation d'informations privées et du contrôle de
-l'espace d'information.
-
-Supprimer toute opposition et remise en question de la campagne.
-
-​
-
-Mise en œuvre d'actions hors ligne
-
-Inciter les utilisateurs à s'engager physiquement : de l'appel à
-manifester à l'achat de marchandises en passant par l'action violente.
-
-Faire basculer la campagne virtuelle dans le monde réel et toucher de
-nouvelles audiences.
-
-​
-
-Persistance dans l'environnement informationnel
-
-Poursuite del'amplification de narratifs et effacement des traces
-(dissimulation des moyens employés, de l'identité des acteurs), même si
-l'événement principal est terminé.
-
-Assurer la continuité de la campagne sur le long-terme.
-
-Évaluation
-
-Évaluation de l'efficacité des actions
-
-Évaluer l'efficacité des actions
-
-​\| Left-aligned \| Center-aligned \| Right-aligned \| \| :--- \| :---:
-\| ---: \| \| git status \| git status \| git status \| \| git diff \|
-git diff \| git diff \|
-
-Les techniques et procédures
+#### Les techniques et procédures
 
 Les techniques et procédures décrivent le comportement de l'acteur
 malveillant. Par sa projection sous forme de matrice dynamique, et
@@ -477,7 +307,7 @@ précédentes, la détection d'un TTPs permet de mettre en évidence l'état
 d'avancée d'une campagne, les moyens utilisés par l'attaquant et enfin,
 d'évaluer son niveau d'effort et les capacités dont il dispose.
 
-Et ensuite ?
+## Et ensuite ?
 
 La fondation Disarm se charge de faire vivre cette matrice en mettant
 notamment à jour les TTPs en fonction de l'évolution et de la
@@ -493,7 +323,7 @@ d'anticipation, de capitalisation et de partage de l'information. Du
 lien entre ces deux matières peut naître des outils comme la matrice
 Disarm. C'est d'autant plus important qu'en retour, Disarm est un outil
 qui peut également alimenter le travail de la CTI. En effet, des
-campagnes comme Ghostwriter ou bien encore les Macron Leaks démontrent
+campagnes comme [*Ghostwriter*](https://www.mandiant.com/resources/blog/ghostwriter-influence-campaign) ou bien encore les [Macron *Leaks*](https://www.fondationdescartes.org/2020/01/the-macron-leaks-operation-a-post-mortem/) démontrent
 bien l'intrication de ces différents champs. Que ce soit le fruit d'une
 campagne mise en place par un acteur étatique ou une action opportuniste
 permise par une fuite de données, les pratiques des attaquants ne se
