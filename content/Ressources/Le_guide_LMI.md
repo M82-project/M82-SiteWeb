@@ -11,7 +11,7 @@ Il ne s’agit pas de grande théorie mais de quelques conseils de base pour tou
 
 télécharger notre guide [PPT](files/Petit_manuel_de_survie_V2.pptx) ou [PDF](/files/Petit_manuel_de_survie_V2.pdf)
 
-![Diapo1](/images/Diapositive1.jpeg)
+![Diapo1](/images/guide_lmi/Diapositive1.jpeg)
 
 ## De quoi parle-t-on ?
 
@@ -19,7 +19,7 @@ La « désinformation » est généralement définie comme la diffusion d’info
 
 La « manipulation de l’information » est une action délibérée (intention de nuire), clandestine (les victimes sont inconscientes) de diffusion d’information falsifiées, déformées ou forgées.
 
-![Diapo2](/images/Diapositive2.jpeg)
+![Diapo2](/images/guide_lmi/Diapositive2.jpeg)
 
 ## Pourquoi manipuler l’information ?
 
@@ -31,7 +31,7 @@ Ces campagnes exploitent parfois **l’actualité ou les faits divers** et utili
 
 Les réseaux sociaux sont particulièrement adaptés à la diffusion de campagnes de manipulation de l’information.
 
-![Diapo3](/images/Diapositive3.jpeg)
+![Diapo3](/images/guide_lmi/Diapositive3.jpeg)
 
 ## Comment ça marche ?
 
@@ -45,7 +45,7 @@ Certains biais cognitifs sont particulièrement employés :
 - le biais de cohérence et de corrélation : tendance à vouloir rendre cohérent des informations qui ne le sont pas nécessairement et à faire des liens ;
 - le biais de simplification : une réponse simple à un problème complexe est généralement mieux acceptée.
 
-![Diapo4](/images/Diapositive4.jpeg)
+![Diapo4](/images/guide_lmi/Diapositive4.jpeg)
 
 ## Comment détecter Les manipulations de l’information ?
 
@@ -59,7 +59,7 @@ Certains biais cognitifs sont particulièrement employés :
 - Si je clique, que je like ou que je partage, à qui ou à quoi cela sert-il ?
 - Enfin, ai-je à faire à de l’information ou de l’opinion ?
 
-![Diapo5](/images/Diapositive5.jpeg)
+![Diapo5](/images/guide_lmi/Diapositive5.jpeg)
 
 2. Vérifier le media
 
@@ -92,7 +92,7 @@ Un article cite normalement ses sources. Vérifiez-le également.
 
 Regardez qui commente, essayez d’identifier les bots (comptes qui postent des commentaires identiques ou proches.
 
-![Diapo6](/images/Diapositive6.jpeg)
+![Diapo6](/images/guide_lmi/Diapositive6.jpeg)
 
 3. Identifier les techniques d’amplification et de diffusion artificielle
 
@@ -112,7 +112,7 @@ Pour amplifier les fausses informations ou pour renforcer artificiellement certa
 
 7.Interactions : vérifiez les publications du compte. Les bots ont tendance à relayer beaucoup de contenus. Ils interagissent également avec d’autres robots pour se donner artificiellement de la visibilité et de la crédibilité.
 
-![Diapo7](/images/Diapositive7.jpeg)
+![Diapo7](/images/guide_lmi/Diapositive7.jpeg)
 
 ## Lutter contre les Bots
 
@@ -130,7 +130,7 @@ Sur les réseaux sociaux les bots peuvent être utilisés pour diffuser des faus
 - Ne pas relayer les productions d’un bot et lui donner de la visibilité.
 - Eviter les interactions (like, commentaires, etc.).
 
-![Diapo8](/images/Diapositive8.jpeg)
+![Diapo8](/images/guide_lmi/Diapositive8.jpeg)
 
 
 ## Qui sommes-nous ?
@@ -141,4 +141,4 @@ contact@m82-project.com
 
 nous rejoindre ou nous soutenir : https://www.helloasso.com/associations/m82-project
 
-![Diapo9](/images/Diapositive9.jpeg)
+![Diapo9](/images/guide_lmi/Diapositive9.jpeg)
