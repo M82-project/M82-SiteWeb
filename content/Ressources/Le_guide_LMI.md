@@ -2,7 +2,7 @@
 title: "Petit manuel de survie contre la manipulation de l'information en ligne"
 date: 2024-03-10
 author: M82_project
-tags: [LMI][désinformation][guide]
+tags: [LMI,désinformation,guide]
 ----
 
 Pour lutter contre un phénomène, il faut le connaître et appliquer des mesures simples de prévention. Le M82_project vous propose un “petit manuel de survie contre la manipulation de l’information en ligne”.
