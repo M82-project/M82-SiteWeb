@@ -9,7 +9,7 @@ Pour lutter contre un phénomène, il faut le connaître et appliquer des mesure
 
 Il ne s’agit pas de grande théorie mais de quelques conseils de base pour tout un chacun !
 
-télécharger notre guide [PPT](https://github.com/sebdraven/M82-SiteWeb/blob/master/static/images/Petit_manuel_de_survie_V2.pptx) ou [PDF](https://github.com/sebdraven/M82-SiteWeb/blob/master/static/images/Petit_manuel_de_survie_V2.pdf)
+télécharger notre guide [PPT](files/Petit_manuel_de_survie_V2.pptx) ou [PDF](/files/Petit_manuel_de_survie_V2.pdf)
 
 ![Diapo1](/images/Diapositive1.jpeg)
 
