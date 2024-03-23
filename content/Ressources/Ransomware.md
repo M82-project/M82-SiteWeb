@@ -29,5 +29,5 @@ M82_project est une association à but non lucratif dont l’objectif est de fac
 
 contact@m82-project.com
 
-* nous (rejoindre)[https://www.helloasso.com/associations/m82-project/adhesions/adhesion-m82-project-2023]
-* nous (soutenir)[https://www.helloasso.com/associations/m82-project/formulaires/1] 
+* nous [rejoindre](https://www.helloasso.com/associations/m82-project/adhesions/adhesion-m82-project-2023)
+* nous [soutenir](https://www.helloasso.com/associations/m82-project/formulaires/1) 
