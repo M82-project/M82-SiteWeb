@@ -7,7 +7,7 @@ tags: [Cybercriminalité,ransomware]
 
 Les attaques par ransomware ou rançongiciels représentent une menace majeure tant pour les entreprises que pour les administrations. 
 
-![Encrypted](/images/Ransomware/encrypted.jpeg)
+![Encrypted](/images/Ransomware/encrypted.jpg)
 
 # Un ransomware c'est quoi ?
 Le site [cybermalvaillance](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/ransomware-rancongiciel-definition) propose la définition ci-dessous: 
@@ -29,5 +29,5 @@ M82_project est une association à but non lucratif dont l’objectif est de fac
 
 contact@m82-project.com
 
-* nous (rejoindre)[https://www.helloasso.com/associations/m82-project/adhesions/adhesion-m82-project-2023]
-* nous (soutenir)[https://www.helloasso.com/associations/m82-project/formulaires/1] 
+* nous [rejoindre](https://www.helloasso.com/associations/m82-project/adhesions/adhesion-m82-project-2023)
+* nous [soutenir](https://www.helloasso.com/associations/m82-project/formulaires/1) 
