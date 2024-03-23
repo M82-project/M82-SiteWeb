@@ -7,7 +7,7 @@ tags: [Cybercriminalité,ransomware]
 
 Les attaques par ransomware ou rançongiciels représentent une menace majeure tant pour les entreprises que pour les administrations. 
 
-![Encrypted](/images/Ransomware/encrypted.jpeg)
+![Encrypted](/images/Ransomware/encrypted.jpg)
 
 # Un ransomware c'est quoi ?
 Le site [cybermalvaillance](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/ransomware-rancongiciel-definition) propose la définition ci-dessous: 
