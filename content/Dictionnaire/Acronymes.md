@@ -3,6 +3,9 @@ title: Acronymes cyber & réseaux télécoms
 date: 2023-03-23
 ---
 
+Contribuez à la mise à jour de cette liste ici : [mise à jour](https://github.com/M82-project/Dictionnaire_Cyber_public/blob/main/2.%20Acronymes)
+
+## A
 * ABCDE : Actors, Behaviour, Content, Degree, Effect.
 * ACL : Acces Control List.
 * ACSSI : Article Contrôlé de la sécurité des informations.
@@ -23,6 +26,8 @@ date: 2023-03-23
 * ARPANET : Advanced Research Projects Agency NETwork.
 * ASCII : American Standard Code for Information Interchange.
 * AuC : Authentication Center.
+  
+## B
 * BAN : Body Area Network.
 * BECN : Backward explicit congestion notification.
 * BGP : Border Gateway Protocol.
@@ -31,6 +36,8 @@ date: 2023-03-23
 * BSC : Base Station Controller.
 * BSS : Base Station Subsystem.
 * BTS : Base Transceiver Station.
+
+## C
 * CA : Certification Auhority.
 * CALID : Centre d’Analyse et de Lutte Informatique Défensive.
 * CAPEC : Common Attack Pattern Enumeration and Classifica-tion.
@@ -63,6 +70,8 @@ date: 2023-03-23
 * CVE : Common Vulnerabilities and Exposure.
 * CVSS : Common Vulnerability Scoring System.
 * CWE : Common Weakness Enumeration.
+
+## D
 * DARPA : Departement of Advanced Research Projects Agency.
 * DCS : Digital Communication System.
 * DDOS : Distributed Deny Of Service.
@@ -79,6 +88,8 @@ date: 2023-03-23
 * DPI : Deep packet inspection.
 * DRM : Digital Right Management.
 * DSS : Digital Signature Standard.
+
+## E
 * EAP : Extensible Authentication Protocol.
 * EBIOS : Expression des Besoins et Identification des Objectifs de Sécurité.
 * EFF : Electronic Fontier Foundation.
@@ -92,6 +103,8 @@ date: 2023-03-23
 * ETCD : Equipement de Terminaison de Circuits de Données.
 * ETSI : European Telecommunications Standard Institute.
 * ETTD : Equipement Terminal de Traitement de Données.
+  
+## F
 * FAI : Fournisseur d’Accès à Internet.
 * FDM : Frequency Division Multiplexing.
 * FDMA : Frequency Division Multiple Access.
@@ -103,6 +116,8 @@ date: 2023-03-23
 * FM : Frequency Modulation.
 * FPS : Fast Packet Switching.
 * FTP : File Transfert Protocol.
+
+## G
 * GAFAM : Google, Apple, Facebook, Amazon, Microsoft.
 * GGSN : Gateway GPRS Support Node.
 * GMSC : Gateway Mobile Switching Center.
@@ -110,6 +125,8 @@ date: 2023-03-23
 * GPRS : General Packet Radio Service.
 * GRE : Generic Routing Encapsulation.
 * GSM : Global System for Mobile Communications.
+
+## H
 * HD : Haut débit
 * HDLC : Hight level Data Link Control.
 * HIDS : Host Intrusion Detection System.
@@ -121,6 +138,8 @@ date: 2023-03-23
 * HTML : HyperText Markup Language.
 * HTTP : Hypertext transfer protocol.
 * HTTPS : Hypertext transfer protocol secured.
+
+## I
 * IAB : Internet Activities Board.
 * IAB : Internet Architecture Board.
 * IANA : Internet Assigned Numbers Authority.
@@ -153,12 +172,16 @@ date: 2023-03-23
 * ITIL : Information Technology Infrastructure Library.
 * ITU : International Telecommunication Union.
 * IXFR : Incremental Zone Transfer.
+
+## J
 * J2SE : Java 2 Standard Edition.
 * J2EE : Java 2 Entreprise Edition.
 * J2ME : Java 2 Micro Edition.
 * JPEG : Joint Picture Expert Group.
 * JS : Java Script.
 * JSON : JavaScript Object Notation.
+
+## L
 * LA : Location Area.
 * LAC : Location Area Code.
 * LAI : Location Area Identification.
@@ -180,6 +203,8 @@ date: 2023-03-23
 * LMI : Lutte contre la Manipulation de l'Information
 * LSR : Label Switching Router.
 * LTE : Long Term Evolution.
+
+## M 
 * MA : Mobile Allocation.
 * MAC : Media Access Control.
 * MAEC - Malware Attribute Enumeration and Characteriza-tion.
@@ -210,6 +235,8 @@ date: 2023-03-23
 * MTS : Message Transfer System.
 * MTU : Maximum Transmission Unit.
 * MVNO : Mobile Virtual Network Operator.
+
+## N
 * NAC : Network Access Control.
 * NAP : Network Access Protection.
 * NAS : Network Access Server.
@@ -238,6 +265,8 @@ date: 2023-03-23
 * NSS : Network Security Services.
 * NTI : Nœud de Transit International.
 * NTIC - Nouvelles Technologies de l’Information et de la Communication.
+
+## O
 * OBL : Opérateur de Boucle Locale.
 * OFDM : Orthogonal Frequency Division Multiplexing.
 * OIV : Opérateur d’importance vitale.
@@ -251,6 +280,8 @@ date: 2023-03-23
 * OSS : Operating System and Service.
 * OTAN : Organisation du traité de l’atlantique nord.
 * OTP : One Time Pad.
+
+## P
 * PABX : Private Automatic Branch Exchange.
 * PAN : Personal Area Network
 * PAP : Password Authentication Protocol.
@@ -274,7 +305,11 @@ date: 2023-03-23
 * PRI : Primary Rate Interface.
 * PSTN : Public Switched Telephone Network.
 * PUK : PIN Unblocking Key.
+
+## Q
 * QOS : Quality Of Service.
+
+## R
 * RAM : Random Access Memory
 * RARP : Reverse Address Resolution Protocol.
 * RAT : Remote Acces Trojan.
@@ -297,6 +332,8 @@ date: 2023-03-23
 * RTCP : Real-time Transport Control Protocol.
 * RTP : Real-time Transport Protocol.
 * RTSP : Real Time Streaming Protocol.
+
+## S
 * S/MIME : Secure / Multipurpose Internet Mail Extensions.
 * SAP : Service Advertising Protocol.
 * SCADA : Supervisory Control And Data Acquisition.
@@ -328,6 +365,8 @@ date: 2023-03-23
 * SSO : Single Sign-On.
 * STAD : Système de traitement automatisé de données.
 * STIX : Structured Threat Information eXpression.
+
+## T
 * TA : Time Advance.
 * TAXII : Trusted Automated of Indicator Information.
 * TCP : Transmission Control Protocol.
@@ -340,7 +379,9 @@ date: 2023-03-23
 * TOR : The Onion Router.
 * TRAU : Transcoding Rate and Adaptation Unit.
 * TTL : Time-To-Live.
-* TTP : Tactique Technique Procedure
+* TTP : Tactique Technique Procedure.
+
+## U
 * UAC : Unified Access Control.
 * UCS: Universal Character Set.
 * UDP : User Datagram Protocol.
@@ -354,6 +395,8 @@ date: 2023-03-23
 * USB : Universal Serial Bus.
 * USENET : UNIX user network.
 * UTF: Unicode Transformation Format.
+
+## V
 * VBR : Variable bit rate.
 * VLAN : Virtual Local Area Network.
 * VLR : Visitor Location Register.
@@ -362,6 +405,8 @@ date: 2023-03-23
 * VPN : Virtual Private Network.
 * VPS : Virtual Private Server.
 * VSAT : Very Small Aperture Terminal.
+
+## W
 * W3C : World Wide Web Consortium.
 * WAN : Wide Area Network.
 * WAP : Wireless Application Protocol.
@@ -371,6 +416,8 @@ date: 2023-03-23
 * WPA : Wi-Fi Protected Access.
 * WPAN : Wireless Personnal Area Network.
 * WWW : World Wide Web.
+
+## X
 * XKMS : XML key management system.
 * XLL : eXtensible Link Language.
 * XML : eXtensible Markup Language.
