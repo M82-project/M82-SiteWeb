@@ -3,7 +3,7 @@ title: Acronymes cyber & réseaux télécoms
 date: 2023-03-23
 ---
 
-Contribuez à la mise à jour de cette liste ici : [mise à jour](https://github.com/M82-project/Dictionnaire_Cyber_public/blob/main/2.%20Acronymes)
+Contribuez à la mise à jour de cette liste ici : [mise à jour](https://github.com/M82-project/Dictionnaire_Cyber/blob/main/1.%20Acronymes.md)
 
 ## A
 * ABCDE : Actors, Behaviour, Content, Degree, Effect.
