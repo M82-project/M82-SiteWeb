@@ -1,6 +1,6 @@
 ---
 title: Acronymes cyber & réseaux télécoms
-date: 2023-03-23
+date: 2024-03-23
 ---
 
 Contribuez à la mise à jour de cette liste ici : [mise à jour](https://github.com/M82-project/Dictionnaire_Cyber/blob/main/1.%20Acronymes.md)
@@ -25,6 +25,17 @@ Contribuez à la mise à jour de cette liste ici : [mise à jour](https://github
 * APT : Advanced Persistant Threat.
 * ARPANET : Advanced Research Projects Agency NETwork.
 * ASCII : American Standard Code for Information Interchange.
+* ATC  : ATM Transfer Capability = capacité de transfert ATM (RFC2381).
+* ATF : Access Termination Functions = fonctions de terminaison d'accès.
+* ATIS : Automatic transmitter identification system = système d'identification automatique de l'émetteur.
+* ATM : Asynchronous Transfer Mode = technique temporelle asynchrone (300 467) ; mode de transfert asynchrone.
+* ATM : crossconnect = brasseur ATM (ATM/MAN).
+* ATM Mapping Functions (AMF) block = bloc de fonction de mise en correspondance ATM.
+* ATM(-based) network = réseau (fondé sur l') ATM ; ATM (/MAN)
+* ATMPW (ATM PseudoWire) = pseudo filaire ATM.
+* ATM-TC (asynchronous transfer mode - transmission convergence) : mode de transfert asynchrone – convergence de transmission.
+* ATM virtual path layer network = réseau de couche de conduit virtuel ATM.
+* ATM-VCC : Asynchronous Transfer Mode -Virtual Circuit Connection = technique temporelle asynchrone - connexion de circuit virtuel.
 * AuC : Authentication Center.
   
 ## B
