@@ -20,7 +20,7 @@ The Dragonbridge campaign instrumentalized hashtags related to the [Intrusion Tr
 Indeed, all of this didn’t really capture the idea of exploiting a very specific hashtag used by a particular actor (here, the Intrusion Truth group) to pass off its content as one’s own. It’s not about flooding the content networks; it’s about impersonating an actor by reusing its codes.
 This technique, ultimately, is that of the Butterfly attack, which I’m glad to finally be able to use because it made a very nice mug for the [M82 project](https://m82-project.org/).
 
-![image](/images/MUG_Butterfly.jpeg)
+![image](/images/MUG_Butterfly.jpg)
 
 T0094.002: Utilizing Butterfly Attacks thus represents the act of impersonating a member of a community, adopting its codes to delegitimize and discredit it.
 
