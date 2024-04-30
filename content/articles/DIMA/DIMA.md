@@ -6,7 +6,7 @@ tags: [LMI,désinformation,DISARM,cognitive warfare]
 ---
 Le concept de [guerre cognitive](https://lerubicon.org/la-guerre-cognitive/) revient sur le devant de la scène alors même que les études stratégiques l’avait délaissé, le résumant souvent à une forme dégénérée des opérations psychologiques de la Guerre froide. Tout cela sentait bon les expérimentations sulfureuses du KGB et les tentatives de manipulations chimiques des cerveaux de la CIA. Pourtant, avec la révolution de l’information que nous connaissons, nos capacités cognitives semblent aujourd’hui dépassées et laissent béantes les failles pour l’exploitation de biais dans nos propres représentations et systèmes de valeurs.
 
-![cerveau](/images/guide_lmi/cerveau.jpeg)
+![cerveau](/images/DIMA/cerveau.jpg)
 
 Au-delà de la “manipulation de l’information”, nos cerveaux sont devenus l’enjeu d’un combat permanent. Pour le monde économique en premier lieu, puisqu’il s’agit de capter l’attention, de provoquer un acte de vente, mais également pour le politique qui cherche à convaincre, rassembler et gouverner. Comme le rappelle Daniel Kahneman dans [“système1, système2”](https://amzn.to/3UkTqFH), le cerveau humain est structurellement vulnérable, nos intuitions prennent régulièrement le pas sur nos raisonnements, exploitant ainsi de nombreux biais cognitifs. Dans un [article pour le Rubicon](https://lerubicon.org/la-guerre-cognitive/), David Pappalardo propose l’approche ci-dessous :
 >La guerre cognitive vise à altérer directement les mécanismes de compréhension du monde réel et de prise de décision pour déstabiliser ou paralyser un adversaire.
