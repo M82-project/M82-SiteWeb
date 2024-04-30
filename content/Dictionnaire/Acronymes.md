@@ -1,14 +1,23 @@
 ---
 title: Acronymes cyber & réseaux télécoms
-date: 2024-03-23
+date: 2024-04-21
 ---
 
-Contribuez à la mise à jour de cette liste ici : [mise à jour](https://github.com/M82-project/Dictionnaire_Cyber/blob/main/1.%20Acronymes.md)
+Contribuez à la mise à jour de cette liste ici : [mise à jour](https://github.com/M82-project/Dictionnaire_Cyber_public/blob/main/2.%20Acronymes)
+Les acronymes télécoms sont issus de l'excellent travail regroupé ici : [GLOTEL](http://abcdrfc.free.fr/ressources-vf/GLOTEL.html)
+
+## Chiffre 
+* 2FA : Two Factor Authentication
+* 3DES : Triple Data Encryption Standard
 
 ## A
+* AAA : Authentication, Authorization, Accounting.
+* ABAC : Attributed-Based Access Control.
 * ABCDE : Actors, Behaviour, Content, Degree, Effect.
-* ACL : Acces Control List.
-* ACSSI : Article Contrôlé de la sécurité des informations.
+* ACL : Access Control List.
+* ACM : Access Control Matrix.
+* ACS : Annual Cost of Safeguard.
+* ACSSI : Article Contrôlé de la Sécurité des Systèmes d'Information.
 * AD : Active Directory.
 * ADSL : Asymmetrical Digital Subscriber Line.
 * AES : Advanced Encryption Standard.
@@ -16,172 +25,292 @@ Contribuez à la mise à jour de cette liste ici : [mise à jour](https://github
 * AFF : Advanced Forensic Format.
 * AFNIC : Association Française pour le Nommage Internet en Coopération.
 * AFNOR : Association Française de NORmalisation.
+* AH : Authentication Header.
+* AIPD : Analyse d'Impact sur la Protection des Données
+* ALE : Annualized Loss Expectancy
 * AMRC : Accès Multiple par répartition en code.
 * AMRF : Accès Multiple par répartition en fréquence.
 * AMRT : Accès multiple par répartition temporelle.
 * ANFR : Agence Nationale des Fréquences.
 * ANSSI : Agence Nationale de la Sécurité des Systèmes d’Information.
+* AP : Access Point.
 * API : Application Programming Interface.
 * APT : Advanced Persistant Threat.
+* ARO : Annualized Rate Of Occurence.
+* ARP : Address Resolution Protocol. 
 * ARPANET : Advanced Research Projects Agency NETwork.
 * ASCII : American Standard Code for Information Interchange.
-* ATC  : ATM Transfer Capability = capacité de transfert ATM (RFC2381).
-* ATF : Access Termination Functions = fonctions de terminaison d'accès.
-* ATIS : Automatic transmitter identification system = système d'identification automatique de l'émetteur.
-* ATM : Asynchronous Transfer Mode = technique temporelle asynchrone (300 467) ; mode de transfert asynchrone.
-* ATM : crossconnect = brasseur ATM (ATM/MAN).
-* ATM Mapping Functions (AMF) block = bloc de fonction de mise en correspondance ATM.
-* ATM(-based) network = réseau (fondé sur l') ATM ; ATM (/MAN)
-* ATMPW (ATM PseudoWire) = pseudo filaire ATM.
-* ATM-TC (asynchronous transfer mode - transmission convergence) : mode de transfert asynchrone – convergence de transmission.
-* ATM virtual path layer network = réseau de couche de conduit virtuel ATM.
-* ATM-VCC : Asynchronous Transfer Mode -Virtual Circuit Connection = technique temporelle asynchrone - connexion de circuit virtuel.
+* ASLR : Address Space Layout Randomizarion.
+* ASVS : Application Security Verification Standard.
+* ATT&CK : Adversarial Tactics, Techniques and Common Knowledge
 * AuC : Authentication Center.
+* AV : AntiVirus.
+* AV : Asset Value.
+* AV-NG : AntiVirus Next-Gen cf EDR, XDR
   
 ## B
 * BAN : Body Area Network.
+* BAS : Breach Attack Simulations.
+* BEC : Business Email Compromise.
 * BECN : Backward explicit congestion notification.
 * BGP : Border Gateway Protocol.
 * BI : Business Intelligence.
+* BIA : Business Impact Analysis.
 * BIOS : Basic Input Output System.
+* BRP : Business Recovery Plan.
 * BSC : Base Station Controller.
+* BSIMM : Business Security in Maturity Model.
 * BSS : Base Station Subsystem.
 * BTS : Base Transceiver Station.
+* BYOD : Bring Your Own Device.
+* BYOE : Bring Your Own Encryption.
+* BYOK : Bring Your Own Key.
 
 ## C
-* CA : Certification Auhority.
+* C2 : Command and Control.
+* CA : Certificate Auhority.
 * CALID : Centre d’Analyse et de Lutte Informatique Défensive.
 * CAPEC : Common Attack Pattern Enumeration and Classifica-tion.
+* CAPTCHA : Completely Automated Public Turing test to tell Computers and Humans Apart
 * CASB : Cloud Access Security Broker.
 * CASE : Common Application Services Elements.
 * CBAC : Context-Based Access Control.
 * CBC : Cypher block chain.
 * CBR : Constant Bit Rate.
+* CC : Certified in Cybersecurity.
+* CC : Common Criterias.
 * CC : Creative Commons.
 * CCC : Chaos Computer Club.
+* CCM : Cloud Controls Matrix.
+* CCMP : Counter-Mode/CBC-Mac protocol.
+* CCRA : Cloud Computing Reference Architecture.
+* CCSK : Cloud Computing Security Knowledge.
+* CCTL : Common Criteria Testing Laboratories.
 * CDMA : Code Division Multiple Access.
 * CDN : Content Delivery Network.
 * CEI : Commission Electrotechnique Internationale.
 * CEN : Comité Européen de Normalisation.
-* CERT : Computer emergency response team.
-* CFB : Cipher FeedBack.
+* CERT : Computer Emergency Response Team.
+* CESIN : Club des Experts de la Sécurité de l'Information et du Numérique.
+* CFB : Cipher FeedBack Block.
 * CFU : Call Forwarding Unconditional.
+* CHAP : Challenge Handshake Authentication Protocol.
 * CIDR : Classless Inter-Domain Routing.
+* CIEM : Cloud Infrastructure Entitlement Management.
+* CIRP : Cyber Incident Response Plan.
+* CIS : Center for Internet Security.
+* CISA : Certified Information Systems Auditor.
+* CISA : Cybersecurity and Infrastructure Security Agency.
+* CISO : Chief Information Security Officer.
+* CISSP : Certified Information Systems Security Professional.
+* CLUSIF : Club de la Sécurité de l'Information Français.
+* CMM : Capability Maturity Model.
+* CMMI : Capability Maturity Model Integration.
 * CMS : Content Management System.
+* CMS : Credential Management System.
 * CNA : Computer Network Attack.
+* CNAPP : Cloud Native Application Protection Plateform.
 * CNE : Computer Network Exploitation.
 * CNIL : Commission Nationale Informatique et Liberté.
 * CNO : Computer Network Operation.
+* COBIT : Control Objectives for Information and related Technology.
 * COIN : Contre insurrection.
+* COOP : Continuity Of Operations Plan.
+* CORS : Cross-Origin Resource Sharing.
+* COTS : Commercial Off-the-Shelf Software.
 * CPE : Common Platform Enumeration.
+* CPSO : Chief Product Security Officer.
 * CPL : Courant Porteur en Ligne.
-* CSMA/CD : Carrier Sense Multiple Acces with Collision Detec-tion.
+* CRL : Certificate Revocation List.
+* CRLDP : Certificate Revocation List Distribution Point.
+* CSA : Cloud Security Alliance.
+* CSF : CyberSecurity Framework.
+* CSIRT : Computer Security Incident Response Team.
+* CSO : Chief Security Officer.
+* CSO : Cloud Security Provider.
+* CSP : Content Security Policy.
+* CSPM : Cloud Security Posture Management.
+* CSPN : Certification de Sécurité de Premier Niveau.
+* CSR : Certificate Signing Request.
+* CSRF : Cross Site Request Forgery.
+* CSMA/CD : Carrier-Sense Multiple Access with Collision Detection.
 * CSS : Cascading Style Sheets.
+* CTI : Cyber Threat Intelligence.
 * CTR : Common Technical Regulation.
 * CVE : Common Vulnerabilities and Exposure.
 * CVSS : Common Vulnerability Scoring System.
 * CWE : Common Weakness Enumeration.
+* CWPP : Cloud Workload Protection Platform.
+* CWSS : Common Weakness Scoring System.
 
 ## D
+* DAM : Database Activity Monitoring.
+* DAST : Dynamic Application Security Testing.
 * DARPA : Departement of Advanced Research Projects Agency.
 * DCS : Digital Communication System.
 * DDOS : Distributed Deny Of Service.
+* DEA : Data Encryption Algorithm.
 * DECT : Digital Enhanced Cordless Telecommunication.
-* DEFCON : Defense Condition.
+* DEFCON : DEFense readiness CONdition.
 * DEP : Data Execution Prevention.
-* DES : Data encryptions Standard.
+* DES : Data Encryption Standard.
 * DHCP : Dynamic Host Configuration Protocol.
+* DKIM : DomainKeys Identified Mail.
 * DLCI : Data Link Channel Identifier.
 * DLL : Dynamic Link Library, bibliothéque de liens dynamique.
+* DLP : Data Loss Prevention.
+* DMARC : Domain Message Authentication Reporting and Conformance.
 * DMZ : DeMilitarized Zone.
 * DNS : Domain Name System.
+* DNSSEC : Domain Name System Security Extensions.
 * DOS : Deny Of Service.
-* DPI : Deep packet inspection.
+* DPD : Délégué à la Protection des Données.
+* DPI : Deep Packet Inspection.
+* DPIA : Data Protection Impact Assessment.
+* DPO : Data Protection Officer.
+* DR : Disaster Recovery.
+* DREAD : Damage Reproducibility Exploitability Affected users Discoverability.
 * DRM : Digital Right Management.
+* DRP : Disaster Recovery Plan.
+* DSA : Digital Signature Algorithm.
 * DSS : Digital Signature Standard.
+* DTLS : Datagram Transport Layer Security.
+* DV : Domain Validation.
 
 ## E
+* E2EE : End-To-End Encryption.
+* EAL : Evaluation Assurance Level.
 * EAP : Extensible Authentication Protocol.
 * EBIOS : Expression des Besoins et Identification des Objectifs de Sécurité.
+* EBIOS RM : Expression des Besoins et Identification des Objectifs de Sécurité Risk Manager.
+* ECC : Elliptic Curve Cryptography.
+* ECDSA : Elliptic Curve Digital Signature Algorithm.
+* EDR : Endpoint Detection and Response.
+* EER : Equal Error Rate.
+* EF : Exposure Fator.
 * EFF : Electronic Fontier Foundation.
+* EFS : Encryption File System.
 * EGP : Exterior Gateway Protocol.
+* eIDAS : electronic IDentification, Authentication and trust Services.
 * EIGRP : Enhanced Interior Gateway Routing Protocol.
 * EIR : Equipment Identity Register.
 * EIR : Excess Information Rate.
+* EIVP : Etude d'Impact sur la Vie Privée.
 * ENISA : European Network for Information Security Agency.
+* EPP : Endpoint Protection Platform.
+* EPSS : Exploit Prediction Scoring System.
 * ESN : Entreprise de Service du Numérique.
+* ESP : Encapsulating Security Payload.
 * ESSID : Extended Service Set Identifier.
 * ETCD : Equipement de Terminaison de Circuits de Données.
 * ETSI : European Telecommunications Standard Institute.
 * ETTD : Equipement Terminal de Traitement de Données.
+* EU5G : European Union 5G Cybersecurity Certification Scheme.
+* EUCC : European Union Common Criteria.
+* EUCS : European Union Cybersecurity Certification Scheme for Cloud Services.
+* EV : Extended Validation.
   
 ## F
 * FAI : Fournisseur d’Accès à Internet.
 * FDM : Frequency Division Multiplexing.
+* FDE : Full Disk Encryption.
 * FDMA : Frequency Division Multiple Access.
 * FEC : Forwarding Equivalence Class.
 * FECN : Forward Explicit Congestion Notification.
+* FEK : File Encryption Key.
 * FH : Frequency Hopping.
 * FHSS : Frequency Hopping Spread Spectrum.
+* FIDO : Fast IDentity Online Alliance.
+* FIDO2 : Fast IDentity Online Alliance v2.
 * FIFO : First in First out.
+* FIPS : Federal Information Processing Standard.
+* FIRST : Forum of Incident Response and Security Teams.
 * FM : Frequency Modulation.
 * FPS : Fast Packet Switching.
 * FTP : File Transfert Protocol.
+* FVEK : File Volume Encryption key.
+* FW : FireWall.
 
 ## G
 * GAFAM : Google, Apple, Facebook, Amazon, Microsoft.
+* GDPR : General Data Protection Regulation.
 * GGSN : Gateway GPRS Support Node.
 * GMSC : Gateway Mobile Switching Center.
 * GMSK : Gaussian Minimum Shift Keying.
+* GPG : GNU Privacy Guard.
+* GPO : Group Policy Object.
 * GPRS : General Packet Radio Service.
+* GRC : Gouvernance Risk management and Compliance.
 * GRE : Generic Routing Encapsulation.
 * GSM : Global System for Mobile Communications.
 
 ## H
-* HD : Haut débit
+* HD : Haut Débit.
 * HDLC : Hight level Data Link Control.
-* HIDS : Host Intrusion Detection System.
+* HIDS : Host-based Intrusion Detection System.
 * HIPS : Host-based Intrusion Prevention System.
 * HLR : Home Location Register.
-* HSDPA : High Speed Download Packet Access
+* HMAC : Hash-based Message Authentication Code.
+* HOTP : HMAC-based One time Password.
+* HSDPA : High Speed Download Packet Access.
+* HSM : Hardware Security Module.
 * HSN : Hopping Sequence Number.
 * HSUPA : High Speed Uplink Packet Access.
 * HTML : HyperText Markup Language.
-* HTTP : Hypertext transfer protocol.
-* HTTPS : Hypertext transfer protocol secured.
+* HTTP : HyperText Transfer Protocol.
+* HTTPS : HyperText Transfer Protocol Secured.
 
 ## I
+* IaaS : Infrastructure as a Service.
 * IAB : Internet Activities Board.
 * IAB : Internet Architecture Board.
+* IAM : Identity and Access Management.
 * IANA : Internet Assigned Numbers Authority.
-* ICANN : Internet Corporation for Assigned Names and Num-bers.
+* IAST : Interactive Application Security Test.
+* ICANN : Internet Corporation for Assigned Names and Numbers.
 * ICMP : Internet Control and error Message Protocol.
-* IDoT : Identity of things.
-* IDP : Internet Datagram Protocol
-* IDS : Intrusion Detection Systems,
+* ICP : Infrastructure à Clé Publique.
+* IDoT : IDentity of things.
+* IDP : Internet Datagram Protocol.
+* IDS : Intrusion Detection Systems.
 * IEC : International Electrotechnical Commission.
 * IEEE : Institute of Electrical and Electronics Engineers.
 * IETF : Internet Engineering Task Force.
+* IGC : Infrastructure de Gestion de Clés.
 * IGP : Interior Gateway Protocol.
 * IHM : Interface Homme Machine.
+* IKE : Internet key Exchange.
 * IMEI : International Mobile Station Equipment Identity.
 * IMS : IP Multimédia Subsystem.
 * IMSI : International Mobile Subscriber Identity.
 * IMT 2000 : International Mobile Telecommunications 2000.
+* IoA : Indicator of Attack.
+* IoC : Indicator of Compromise.
 * IOT : Internet Of Things.
+* IP : Internet Protocol.
 * IPBX : Internet Protocol-Private Branch Exchange.
-* IPS - Intrusion Prevention System.
-* IPSEC : Internet Protocole Security.
+* IPS : Intrusion Prevention System.
+* IPsec : Internet Protocol Security.
+* IR : Incident Response.
+* IRT : Incident Response Team.
 * IRTF : Internet Research Task Force.
+* IS : Information Security.
+* ISAKMP : Internet Security Association and Key Management Protocol
+* ISC2 : International Information Systems Security Certification Consortium.
+* ISCM : Information Security Continuous Monitoring.
 * ISDN : Integrates Services Digital Network.
 * IS-IS : Intermediate Sytem to Intermediate System.
 * ISL : Inter Switch Link.
+* ISMS : Information Security Management System.
 * ISO : International Standard Organisation.
 * ISOC : Internet SOCiety.
-* ISTAR : Intelligence, surveillance, target acquisition, and recon-naissance.
+* ISTAR : Intelligence, Surveillance, Target Acquisition, and Reconnaissance.
+* IT : Information Technology.
 * ITA : Information Technology Agreement.
 * ITIL : Information Technology Infrastructure Library.
 * ITU : International Telecommunication Union.
+* ITSEC : Information Technology Security Evaluation Criteria.
+* IV : Initialization Vector.
 * IXFR : Incremental Zone Transfer.
 
 ## J
@@ -189,10 +318,21 @@ Contribuez à la mise à jour de cette liste ici : [mise à jour](https://github
 * J2EE : Java 2 Entreprise Edition.
 * J2ME : Java 2 Micro Edition.
 * JPEG : Joint Picture Expert Group.
-* JS : Java Script.
+* JS : JavaScript.
 * JSON : JavaScript Object Notation.
 
+## K
+* KDC : Key Distribution Center.
+* KDK : Key Derivation Function.
+* KEK : Key Encryption Key.
+* KMIP : Key Management Interoperability Protocol.
+* KMS : Key Management System.
+* KRACK : Key Reinstallation AttaCK.
+* KRI : Key Risk Indicator.
+
 ## L
+* L2I : Lutte Informatique d'Influence.
+* L2TP : Layer 2 Tunneling Protocol.
 * LA : Location Area.
 * LAC : Location Area Code.
 * LAI : Location Area Identification.
@@ -203,6 +343,8 @@ Contribuez à la mise à jour de cette liste ici : [mise à jour](https://github
 * LCP : Link Control Protocol.
 * LDAP : Lightweight Directory Access Protocol.
 * LDP : Label Distribution Protocol.
+* LEAP : Lightweight Extensible Authentication Protocol.
+* LFI : Local File Inclusion.
 * LIB : Label Information Base.
 * LID : Lutte Informatique Défensive.
 * LII : Lutte Informatique d'Influence.
@@ -211,25 +353,35 @@ Contribuez à la mise à jour de cette liste ici : [mise à jour](https://github
 * LLC : Logical Link Control.
 * LLM : Large Language Model.
 * LMI : Local Management Interface.
-* LMI : Lutte contre la Manipulation de l'Information
+* LMI : Lutte contre la Manipulation de l'Information.
+* LoTL : Living off The Land.
+* LSA : Local Security Authority.
 * LSR : Label Switching Router.
 * LTE : Long Term Evolution.
 
 ## M 
 * MA : Mobile Allocation.
+* MAC : Mandatory Access Control.
 * MAC : Media Access Control.
-* MAEC - Malware Attribute Enumeration and Characteriza-tion.
+* MAC : Message Authentication Code.
+* MAEC : Malware Attribute Enumeration and Characterization.
 * MAIO : Mobile Allocation Index Offset.
 * MAN : Metropolitan Area Network.
 * MBR : Master Boot Record.
 * MCC : Mobile Country Code.
 * MD5 : Message Digest 5.
+* MDM : Mobile Device Management.
+* MDR : Manage Detection and Response.
+* MFA : Multi-Factor Authentication.
 * MGCF : Media Gateway Control Function.
 * MIB (SNMP) : Management Information Base.
+* MIC : Message Integrity Check.
 * MIC : Modulation par Impulsions Codées.
 * MIME : Multipurpose Internet Mail Extensions.
 * MIMO : Multiple Input / Multiple Output.
+* MIPS : Menace Informatique et Pratique de Sécurité.
 * MISO : Multiple In / Single Out.
+* MITM : Man In The Middle.
 * MNC : Mobile Network Code.
 * MMF : Multimode Fiber.
 * MMS : Multimedia Messaging Service.
@@ -237,12 +389,15 @@ Contribuez à la mise à jour de cette liste ici : [mise à jour](https://github
 * MOA : Maitrise d'OuvrAge.
 * MOE : Maitrise d’œuvre.
 * MOSPF : Multicast extension Open Shortest Path First.
-* MPLS - MultiProtocole Label Switching.
+* MPLS : MultiProtocole Label Switching.
 * MSC : Mobile Switching Center.
 * MSIN : Mobile Subscriber Identification Number.
 * MSISDN : Mobile station ISDN number.
+* MSSP : Managed Security Service Provider. 
 * MTA : Message Transfer Agent.
 * MTBF : Mean Time Between Failure.
+* MTTD : Mean Time To Detect.
+* MTTR : Mean Time To Remediate.
 * MTS : Message Transfer System.
 * MTU : Maximum Transmission Unit.
 * MVNO : Mobile Virtual Network Operator.
@@ -250,63 +405,100 @@ Contribuez à la mise à jour de cette liste ici : [mise à jour](https://github
 ## N
 * NAC : Network Access Control.
 * NAP : Network Access Protection.
+* NAP : Network Access Protocol.
 * NAS : Network Access Server.
 * NAS : Network Attached Storage.
 * NAT : Network Address Translation.
 * NAT- PT : Network Address Translation - Protocol Translator.
 * NBMA : Non-Broadcast Multi-Access.
 * NCIRC : NATO Computer Incident Response Capability.
-* NEB : Numérisation de l’espace de bataille.
+* NDA : Non-Disclosure Agreement.
+* NDR : Network Detection and Response.
+* NEB : Numérisation de l’Espace de Bataille.
 * NFC : Near Field Communication.
 * NFS : Network File System.
 * NIC : Network Information Center.
 * NIC : Network Interface card.
 * NIDP : Network Intrusion Detection and Prevention.
 * NIDS : Network Intrusion Detection System.
+* NIS : Network and Information Security.
+* NIS2 : Network and Information Security v2.
 * NIS : Network Information Services.
 * NIST : National Institute of Standards and Technology.
 * NMS : Network Management System.
-* NNI : Network to Network Interface
-* NNTP : Network News transfert Protocol
+* NNI : Network to Network Interface.
+* NNTP : Network News transfert Protocol.
+* NOC : Network Operations Center.
+* NPS : Network Policy Server.
 * NRA : Nœud de Raccordement d’Abonné.
-* NRO : Nœud de Raccordement Optique .
+* NRO : Nœud de Raccordement Optique.
 * NSA : National Security Agency.
 * NSAP : Network Service Access Point.
 * NSS : Network Sub System.
 * NSS : Network Security Services.
+* NTA : Network Traffic Analysis.
 * NTI : Nœud de Transit International.
-* NTIC - Nouvelles Technologies de l’Information et de la Communication.
+* NTIC : Nouvelles Technologies de l’Information et de la Communication.
+* NVD : National Vulnerability Database. 
 
 ## O
+* OATH : Open AuTHentication.
+* OAUth : Open AUthorization.
 * OBL : Opérateur de Boucle Locale.
+* OCF : Open Certification Framework.
+* OCSP : Open Certificate Status Protocol.
 * OFDM : Orthogonal Frequency Division Multiplexing.
 * OIV : Opérateur d’importance vitale.
 * OLSR : Optimized Link State Routing Protocol.
 * OMG : Object Management Group.
 * OODA : Observer, Orienter, Décider, Agir (Observe, Oriente, Decide, Act).
+* OpenSSL : Open Secure Socket Layer.
+* OPSEC : OPerations SECurity.
 * OS : Operating System.
-* OSI (modèle) : Open System Interconnexion.
+* OSCP : Offensive Security Certified Professional.
+* OSI (modèle) : Open Systems Interconnection.
 * OSI : Open Source Initiative.
 * OSPF : Open Shortest Path First.
 * OSS : Operating System and Service.
+* OT : Operational Technology.
+* OTP : One Time Password.
 * OTAN : Organisation du traité de l’atlantique nord.
 * OTP : One Time Pad.
+* OV : Organization Validation.
+* OVAL : Open Vulnerability and Assessment Language.
+* OWASP : Open Web Application Security Project.
 
 ## P
+* PAAS : Platform as a Service.
 * PABX : Private Automatic Branch Exchange.
-* PAN : Personal Area Network
+* PACS : Prestataires d’Accompagnement et de Conseil en Sécurité des systèmes d’information.
+* PAN : Personal Area Network.
+* PAM : Privilege Access Management.
+* PAMS : Prestataire d'Administration et de Maintenance Sécurisées.
 * PAP : Password Authentication Protocol.
+* PASSI : Prestataire d'Audit en Sécurité des Systèmes d’Information.
 * PBX : Private Branch Exchange.
 * PCA : Plan de continuité d’activité.
-* P-CSCF : Proxy Call Session Control Fonction
+* PCI-DSS : Payment Card Industry Data Security Standard.
+* PCI-SSC : Payment Card Industry Security Standards Council.
+* P-CSCF : Proxy Call Session Control Fonction.
+* PDIS : Prestataire en Détection des Incidents de Sécurité.
 * PDN : Public Data Network.
+* PEAP : Protected Extensible Authentication Protocol.
+* PFS : Perfect Forward Secrecy.
 * PGP : Pretty Good Privacy.
-* PIN : Personnal Identification Number.
-* PKI : Public Key Infrastructure.
+* PHI : Protect Health Information.
+* PIA : Privacy Impact Assessment.
+* PII : Personaly Identifiable Information.
+* PIN : Personal Identification Number.
 * PKCS : Public Key Cryptography Standard.
+* PKI : Public Key Infrastructure.
 * PLMN : Public Land Mobile Network.
+* PMK : Pairwise Master Key.
 * PMR : Professional Mobile Radio.
+* PMS : Pre-Master Secret.
 * PNNI : Private Network Network Interface.
+* PoC : Proof of Concept.
 * PoP : Point of Presence.
 * POP3 : Post Office Protocol 3.
 * POTS : Plain Old Telephone Service.
@@ -314,121 +506,250 @@ Contribuez à la mise à jour de cette liste ici : [mise à jour](https://github
 * PPTP : Point-to-Point Tunneling Protocol.
 * PRA : Plan de Reprise d’Activité.
 * PRI : Primary Rate Interface.
+* PRIS : Prestataires de Réponse aux Incidents de Sécurité.
+* PSK : Pre-Shared Key.
+* PSSI : Politique de Sécurité des Systèmes d'Information.
 * PSTN : Public Switched Telephone Network.
 * PUK : PIN Unblocking Key.
+* PVID : Prestataires de Vérification d'Identité à Distance. 
 
 ## Q
 * QOS : Quality Of Service.
+* QKD : Quantum Key Distribution.
 
 ## R
+* RADIUS : Remote Authentication Dial-In User Service.
+* RAID : Redundant Array of Independent Disks.
 * RAM : Random Access Memory
 * RARP : Reverse Address Resolution Protocol.
-* RAT : Remote Acces Trojan.
+* RASP : Runtime Application Self-Protection.
+* RAT : Remote Access Trojan.
 * RAT : Remote Administration Tool.
+* RBAC : Role-Based Access Control.
 * RBL : Realtime Blackhole List.
+* RC4 : Rivest Cipher 4.
+* RCE : Remote Code Execution.
 * RFC : Request For Comment.
 * RFID : Radio Frequency Identification.
+* RGPD : Règlement Général pour la Protection des Données.
+* RGS : Référentiel Général de Sécurité.
 * RIC : Renseignement d’intérêt Cyber.
 * RIP : Routing Information Protocol.
 * RIR : Registre Internet Régionaux, Regional Internet Registry.
 * RLC : Radio Link Control.
+* RMF : Risk Management Framework.
+* RNG : Random Number Generator.
 * RNIS : Réseau Numérique à Intégration de Services.
 * ROC : Renseignement d’Origine Cyber.
 * ROM : Read Only Memory.
+* ROM : Return Of Mitigation.
+* ROSI : Return On Security Investment.
 * RPC : Remote Procedure Call.
-* RSA : Rivest, Shamir, Adelman.
+* RPO : Recovery Point Objective.
+* RSA : Rivest, Shamir, Adleman.
 * RSSI : Responsable de la Sécurité des Systèmes d’Information.
 * RSVP : Resource Reservation Protocol.
 * RTC : Réseau Téléphonique Commuté.
+* RTO : Recovery Time Objective.
 * RTCP : Real-time Transport Control Protocol.
 * RTP : Real-time Transport Protocol.
 * RTSP : Real Time Streaming Protocol.
 
 ## S
 * S/MIME : Secure / Multipurpose Internet Mail Extensions.
+* SA : Security Association.
+* SA : Source Address.
+* SA (Subnet Administrator) = administrateur de sous réseau (RFC4391).
+* SaaS : Software as a Service.
+* SABM (Set Asynchronous Balanced Mode) = mise en mode asynchrone équilibré (commande d'initialisation de protocole à la couche 2. Sauf mention contraire, SABM désigne aussi bien la forme simple que la forme étendue du message).
+* SABM_ACK (Layer two acknowledgment to SABM) = acquittement de SABM à la couche 2.
+* SAC (Service Access Code) = code d'accès au service.
+* SAC (syntax-based arithmetic coding) = codage arithmétique syntaxique (H.263).
+* SAC (Strict Avalanche Criterion) = critère strict d'avalanche (RFC2144).
+* SACCH (Slow Associated Control Channel) = canal de signalisation associé lent ; GSM.
+* SACCH/Cx (Slow, SDCCH/4 Associated, Control Channel) = canal de signalisation lent associé à un SDCCH/x ; GSM.
+* SACCH/T (Slow, TCH-Associated, Control Channel) = canal de signalisation lent associé à un TCH ; GSM.
+* SACF (single association control function) = fonction de contrôle à association unique ; fonction de contrôle d’association simple.
+* SACK (Selective Acknowledgment) = accusé de réception sélectif (RFC 2018).
+* SACRED (Secure Availability of Credentials) = disponibilité sécurisée des accréditifs (RFC 3760).
+* SAD (Security Association Database) = base de données d'association de sécurité (RFC3168).
+* SADB (Security Association Database) = base de données des associations de sécurité (RFC3554).
+* SAE : Simultaneous Authentication as Equals.
+* SAF (SACF auxiliary facility) = facilité auxiliaire de fonction SACF (X.862).
+* SAFI (Subsequent Address Family Identifier) = identifiant de la famille d'adresse suivante (RFC 4760).
+* SAI (Source Attachment Identifier) = identifiant de rattachement de source (RFC5003).
+* SAI (satellite air interface) = trajet aérien par satellite.
+* SAID (security association identifier) = identifiant d'association de sécurité.
+* S-AIS (Section Alarm Indication Signal) = signal d'indication d'alarme sur la section.
+* SAM (SCSI Architecture Model) = modèle d’architecture SCSI (RFC7143).
+* SAM (subsequent address message) = message d'adresse à suivre ; RNIS/ISUP.
+* SAML (Security Assertion Markup Language) = langage de balisage d’assertion de sécurité (X.1142).
+* SAN (Storage Area Networking/Network) = mise en réseau de zone de mémorisation/réseau à zone de mémorisation.
+* SAN (Subject Alternative Name) = nom de remplacement de sujet (RFC4556).
+* SAO (Single Association Objet) = objet d'association unique ; R.I.
 * SAP : Service Advertising Protocol.
 * SCADA : Supervisory Control And Data Acquisition.
+* SCAP : Security Content Automation Protocol.
+* SCIM : System for Cross-domain Identity Management.
+* SCRM : Supply Chain Risk Management.
+* SDL : Software Development Lifecycle.
 * SDLC : Synchronous Data Link Control.
+* SDLC : Software Development Life Cycle.
 * SDMX : Statistical Data and MetaData eXchange.
+* SDN : Software-Defined Networking.
+* SDO : Software Delivery Objective. 
 * SDU : Service Data Unit.
+* SD-WAN : Software Defined Wide Area Network.
+* SecaaS : Security as a Service.
+* SGDSN : Secrétariat Général de la Défense et de la Sécurité Nationale.
 * SGML : Standard Generalized Markup Language.
 * SHA : Secure Hash Algorithm.
+* SHA-1 : Secure Hash Algorithm-1.
+* SHA-2 : Secure Hash Algorithm-2.
+* SHA-3 : Secure Hash Algorithm-3.
 * SHTTP : Secure Hypertext Transfer Protocol.
-* SIEM : Security Information and Event Management System.
+* SIEM : Security Information and Event Management.
 * SIM : Subscriber Identity Mobile.
 * SIP : Session Initiation Protocol.
+* SKIP : Simple Key Management for Internet Protocol.
+* SLA : Service Level Agreement.
+* SLE : Single-Loss Expectancy.
 * SMB : Server Message Block.
 * SMF : Single Mode Fiber.
 * SMS : Short Message Service.
+* SMSI : Système de Management de la Sécurité de l'Information.
 * SMTP : Simple Mail Transfer Protocol.
 * SNMP : Simple Network Management Protocol.
 * SOA : Service Oriented Architecture.
 * SOAP : Simple Object Access Protocol.
+* SOAR : Security Orchestration Automation and Response.
 * SOC : Security Operations Center.
+* SOD : Separation of Duties.
+* SOD : Segregation of Duties.
+* SOP : Same Origin Policy.
+* SPD : Security Policy Database.
+* SPF : Sender Policy Framework.
+* SPI : Sensitive Personal Information.
+* SPI : Stateful Packet Inspection.
+* SPI : Security Parameter Index.
+* SPML : Service Provisioning Markup Language.
+* SPOX : Single Point of Failure.
 * SPX : Sequenced Packet eXchange.
 * SQL : Structured Query Lanquage.
+* SQLI : Structured Query Lanquage Injection.
 * SS7 : Signaling System 7.
+* S-SDLC : Secure Software Development Life Cycle.
+* SSE : Security Service Edge.
 * SSH : Secure Shell.
+* SSID : Service Set IDentifier.
+* SSO : Single Sign On.
 * SSID : Service Set IDentifier.
 * SSII : Société de Service et d’Ingénierie Informatique.
 * SSL : Secure Socket Layer.
 * SSL/TLS : Secure Socket Layer/Transport Layer Security.
 * SSO : Single Sign-On.
-* STAD : Système de traitement automatisé de données.
+* SSPM : SaaS Security Posture Management.
+* SSRF :  Server-Side Request Forgery.
+* SSTP : Secure Socket Tunneling Protocol.
+* STAD : Système de Traitement Automatisé de Données.
+* STAR : Security, Trust and Assurance Registry.
 * STIX : Structured Threat Information eXpression.
+* STRIDE : Spoofing, Tampering, Repudiation, Information disclosure, Denial of service, Elevation of privilege.
+* STS : Security Token Service.
+* SWG : Secure Web Gateway.
 
 ## T
+* TA : Threat Agent.
 * TA : Time Advance.
-* TAXII : Trusted Automated of Indicator Information.
+* TAXII : Trusted Automated eXchange of Intelligence Information.
+* TCB : Trusted Computing Base.
 * TCP : Transmission Control Protocol.
 * TD/CDMA : Time Division / CDMA.
+* TDE : Transparent Data Encryption.
+* TDEA : Transparent Data Encryption Algorithm.
 * TDM : Time Division Multiplexing.
 * TDMA : Time Division Multiple Access.
 * TKIP : Temporal Key Integrity Protocol.
 * TLD : Top Level Domain.
 * TLP : Tear Line Protocol.
+* TLP : Traffic Light Protocol.
+* TLS : Transport Layer Security.
+* TOC : Time Of Change.
+* TOU : Time Of Use.
 * TOR : The Onion Router.
+* TOTP : Time-based One Time Password.
+* TPM : Trusted Platform Module.
 * TRAU : Transcoding Rate and Adaptation Unit.
 * TTL : Time-To-Live.
-* TTP : Tactique Technique Procedure.
+* TTP : Tactics Techniques and Procedures.
 
 ## U
+* U2F : Universal Second Factor.
+* UAC : User Account Contro.
 * UAC : Unified Access Control.
+* UAF : Universal Authentication Framework.
 * UCS: Universal Character Set.
 * UDP : User Datagram Protocol.
+* UEBA : User and Entity Behavior Analytics.
 * UIT : Union Internationale des Télécommunications.
 * UMTS : Universal Mobile Telecommunication System.
 * UMTS -TDD : Universal Mobile Telecommunication System Time Division Duplex.
 * UNI : User to Network Interface.
+* UPS : Uninterruptible Power Supply.
 * URI : Uniform Resource Identifier.
 * URL : Uniform Resource Locator.
 * URN : Uniform Ressource Name.
 * USB : Universal Serial Bus.
 * USENET : UNIX user network.
 * UTF: Unicode Transformation Format.
+* UTM : Unified Threat Management.
 
 ## V
-* VBR : Variable bit rate.
+* VBR : Variable Bit Rate.
 * VLAN : Virtual Local Area Network.
 * VLR : Visitor Location Register.
-* VLSM - Variable-Length Subnet Mask.
+* VLSM : Variable-Length Subnet Mask.
+* VMK : Volume Master Key.
 * VOD : Video On Demand.
 * VPN : Virtual Private Network.
 * VPS : Virtual Private Server.
 * VSAT : Very Small Aperture Terminal.
+* VXLAN : Virtual Extensible Local Area Network.
 
 ## W
 * W3C : World Wide Web Consortium.
+* WAAP : Web Application and API Protection.
+* WAF : Web Application Firewall.
 * WAN : Wide Area Network.
 * WAP : Wireless Application Protocol.
 * WCDMA : Wideband Code Division Multiple Access.
 * WEP : Wired Equivalent Privacy.
 * WLAN : Wireless Local Area Network.
+* WORM : Write Once Read Many.
 * WPA : Wi-Fi Protected Access.
+* WPA2 : Wi-Fi Protected Access 2.
+* WPA3 : Wi-Fi Protected Access 3.
 * WPAN : Wireless Personnal Area Network.
+* WPS : Wi-Fi Protected Setup.
+* WRT : Work Recovery Time.
 * WWW : World Wide Web.
 
 ## X
+* XACML : eXtensible Access Control Markup Language.
+* XDR : eXtended Detection and Response.
 * XKMS : XML key management system.
 * XLL : eXtensible Link Language.
 * XML : eXtensible Markup Language.
+* XSRF : Cross Site Request Forgery.
+* XSS : Cross Site Scripting.
+
+## Y
+* YAML : Yet Another Markup Language.
+* YARA : Yet Another Recursive Acronym.
+
+## Z
+* ZKF : Zero-Knowledge Proof.
+* ZKF : Zero-Knowledge Protocol.
+* ZT : Zero Trust.
+* ZTA : Zero Trust Architecture.
+* ZTNA : Zero Trust Network Architecture.
