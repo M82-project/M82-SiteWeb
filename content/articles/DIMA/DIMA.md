@@ -51,6 +51,7 @@ Ceux qui exploitent nos biais cognitifs cherchent naturellement à ce que nous n
 Dans la dernière partie du framework nous nous intéressons à ce qui nous fait réaliser des choses et agir sur notre environnement. Après avoir capté notre attention, donné du sens à une information, faire en sorte qu’elle ne soit pas rejetée, les acteurs de la manipulation de l’information vont chercher à nous faire agir sur la base de l’information manipulée qu’ils diffusent. Pour ce faire ils ont à disposition, là encore, un certain nombre de biais à exploiter. Outre le biais de cadrage déjà évoqué, nous retiendrons principalement :
 * le biais d’action qui est la tendance à préférer l’action à l’inaction, même lorsque rien ne prouve qu’agir sera plus bénéfique que de ne rien faire;
 * le biais de disponibilité, c’est la tendance à accorder plus d’importance aux informations facilement disponibles dans notre esprit, même si elles ne sont pas représentatives de la réalité. On peut alors surestimer l’urgence d’agir sur la base d’exemples frappants mais non représentatifs qui nous viennent spontanément à l’esprit (d’où l’intérêt de la phase “Mémoriser”).
+* le biais de renforcement ou d’auto-confirmaiton, déjà important dans la partie mémorisation, est à l’œuvre dans les bulles de filtre numériques et conduit à nous faire agir suivant notre environnement. Il est très lié au biais de conformité.
 
 ## Conclusion (partielle):
 
