@@ -1,6 +1,6 @@
 ---
 title: Acronymes cyber & réseaux télécoms
-date: 2024-04-21
+date: 2024-05-13
 ---
 
 Contribuez à la mise à jour de cette liste ici : [mise à jour](https://github.com/M82-project/Dictionnaire_Cyber_public/blob/main/2.%20Acronymes)
