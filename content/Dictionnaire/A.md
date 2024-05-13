@@ -1,6 +1,6 @@
 ---
 title: A
-date: 2024-04-28
+date: 2024-05-12
 ---
 
 Contribuez à la mise à jour de ce dictionnaire ici : [mise à jour](https://github.com/M82-project/Dictionnaire_Cyber)
