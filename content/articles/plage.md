@@ -7,7 +7,7 @@ tags: [LMI,désinformation,DISARM,cognitive warfare]
 
 Pourquoi les marchands de glace se trouvent toujours au même endroit ?
 
-![cerveau](/images/plage/plage.pdf)
+{{< embed-pdf url="/files/Analyse_tags.pdf">}}
 
 ## La loi de Hotteling
 
