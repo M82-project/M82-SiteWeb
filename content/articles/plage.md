@@ -3,6 +3,7 @@ title: "Plage, politique et réseaux sociaux"
 date: 2024-07-24
 author: Anthony Namor
 tags: [LMI,désinformation,DISARM,cognitive warfare]
+draft: true
 ---
 
 Pourquoi les marchands de glace se trouvent toujours au même endroit ?
