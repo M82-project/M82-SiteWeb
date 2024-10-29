@@ -18,7 +18,7 @@ Dans ce contexte, une opération est une série d’actions élémentaires plani
 
 Au niveau stratégique et opératif on a recours à une approche graphique pour représenter cette série d’action que l’on répartie sur des lignes d’opération (ou lignes d’effort), On appelle cela “l’OPS Design”, voir ci-dessous:
 
-![cerveau](/images/DIMA/cerveau.jpg)
+![cerveau](/images/line.webp)
 
 Une “campagne” désigne alors plusieurs “opérations” conduites par une force dans un cadre espace/temps limité. Ce découpage permet donc de concevoir et conduire les actions militaires. Comprendre ce mécanisme chez un adversaire permet ainsi d’une certaine façon de le modéliser et donc de lui donner un caractère prévisible. Les memento de tactique rassemblent ainsi les techniques qui permettent la mise en œuvre de ces actions. Ainsi, à chaque niveau de commandement d’une structure militaire, depuis la section jusqu’au corps d’armée, du chasseur à l’escadre, de la frégate au groupe aéronaval, chacun peut-il s’appuyer sur des recueils de procédures pour conduire ses actions élémentaires. Comprendre et connaitre les procédures de l’adversaire permet d’anticiper ses mouvements, de les contrer et constitue donc un avantage significatif.
 
@@ -30,7 +30,7 @@ La postulat est donc : “montre moi tes TTPs, je te dirai qui tu es” et par l
 
 Détecter et analyser les modes opératoires permet donc d’une part d’attribuer une attaque mais également de mieux s’en défendre (enfin ça c’est ce que l’on espère). Il s’agit donc de modéliser et standardiser cette description de la menace afin de pouvoir échanger entre acteur de la cybersécurité. Pour illustrer cette démarche nous évoqueront le modèle de données STIX. Il permet de représenter clairement les menaces à l’aide d’objets et de relations descriptives entre objets. En outre, les informations STIX peuvent être représentées visuellement pour les analystes ou stockées au format JSON pour une lecture et un partage rapide par les machines.
 
-![cerveau](/images/DIMA/cerveau.jpg)
+![cerveau](/images/stix2_relationship_example_2.png)
 
 Les objets manipulés par STIX peuvent être des éléments comme les infrastructures, un acteur, les TTP, un outil une adresse IP. Chaque type d’objet possède des propriétés et des relations définies avec d’autres objets. Les informations qui sont ainsi capitalisées permettent aux analystes en sécurité de détecter plus facilement des modèles d’attaque connus.
 
@@ -40,15 +40,14 @@ Cette approche est-elle aussi pertinente en LMI ?
 
 ## A la recherche de Cendrillon
 
-![cerveau](/images/DIMA/cerveau.jpg)
+![cerveau](/images/Chaussure.jpg)
 
 La transposition directe des notions évoquées ci-dessus ne parait pas si triviale. Sur un plan purement opérationnel, la terminologie semble clairement adaptée à la description des activités d’un adversaire connu et désigné. Ce dernier conduirait donc des “campagnes” qui font se succéder des “opérations” chacune concourant à un objectif désigné. Mais ne sommes nous pas victime ici d’un biais d’analyse cherchant à créer des “motifs” et de la cohérence là où il n’y a peut-être qu’initiative et opportunité ? Dans leur article “sous les radars”, Maxime Audinet et Colin Gérard soulignent la recomposition de l’appareil russe de propagande depuis 2022. Celui-ci, soumis à une pression accru et devant faire face à la fermeture de canaux de diffusion maitrisés se reconfigure et met en œuvre des modes opératoires plus discret et indirect. Ainsi, le recours à des prestataires privés pour créer et animer des réseaux d’influence semble s’imposer comme un marquant fort de cette évolution. Quelle conséquence pour l’analyse et la modélisation de la menace ?
 
 Le recours à un prestataire suppose de passer d’un mode “directif et contrôlé” (chaine de commandement claire, construction d’opération rationnelle et méthodique) à un mode “ suggestif et piloté”. En effet, le commanditaire doit dans ce cadre fixer des objectifs ou des grandes lignes de son intention, fournir les moyens (payer) et délègue les modalités au prestataire. Cette intermédiation génère du flou (recherché pour limiter l’attribution) mais également une zone de chaos assumé dans laquelle les actions du prestataire ne correspondent pas nécessairement aux buts du commanditaire. L’analyse des actions laisse alors apparaitre une série d’activité que l’on aura beaucoup de peine à placer dans le schéma linéaire d’une “campagne” (cf figure 1). En outre, l’analyse dans le temps d’un tel acteur (le prestataire) ne permettra pas de dégager des TTP qui traduisent pleinement son intention ni son commanditaire…
 
 ## En guise de conclusion ?
-![cerveau](/images/DIMA/cerveau.jpg)
+
+![cerveau](/images/on-va-tous-murir.png)
 
 Il ne s’agit pas pour autant de renoncer totalement à cette approche analytique mais il convient de mesurer l’écart et la distorsion quelle engendre. La matière est encore relativement récente et il y a sans doute de nombreux travaux pour parvenir à une meilleure appréhension des phénomènes dans le but de mieux les contrer. Un travail sur les “points fixes”, ou les pré-requis techniques (infrastructures, réseaux, plateformes, hébergeurs, financements), plus que sur les variables (les contenus) parait une piste intéressante mais avant tout il reste à clarifier la sémantique et ne pas confondre une tactique avec une infrastructure, un acteur avec son prestataire.
-
-
