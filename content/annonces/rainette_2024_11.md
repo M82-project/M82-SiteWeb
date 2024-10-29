@@ -1,5 +1,5 @@
 ---
-title: Les rencontres de la rainette, 19 décembre 2024
+title: Les rencontres de la rainette, 19 novembre 2024
 date: 2024-10-29
 tags: [grenouille,news]
 featured_image: 'images/banniere_grenouille.png'
