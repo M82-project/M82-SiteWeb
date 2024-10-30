@@ -17,10 +17,23 @@ theme = "gohugo-theme-ananke"
     weight = 5
     contentDir = "content"
 
-[[params.ananke_socials]]
-name = "linkedin"
-url = "https://www.linkedin.com/company/m82-project/"
-[[params.ananke_socials]]
-name = "github"
-url = "https://github.com/M82-project/"
+[params.ananke.social.share]
+networks = [
+  "github",
+  "linkedin"
+]
+
+[params.ananke.social.follow]
+networks = [
+  "github",
+  "linkedin"
+]
+
+[params.ananke.social]
+[params.ananke.social.github]
+profilelink = "https://www.github.com/M82-Project/"
+
+[params.ananke.social.linkedin]
+profilelink = "https://www.linkedin.com/company/m82-project/"
+
 
