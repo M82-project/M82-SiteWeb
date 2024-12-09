@@ -1,8 +1,8 @@
 ---
-title: "Lutte contre la Manipulation de l’Information (LMI) et terminologie: “Houston we have a problem"
+title: Lutte contre la manipulation de l’information (LMI) et terminologie, Houston we have a problem
 date: 2024-10-29
 author: Bertrand Boyer
-tags: [LMI,désinformation,DISARM,MITRE]
+tags: [LMI,desinformation,DISARM,MITRE]
 ---
 Depuis plusieurs mois, la lecture des rapports et des diverses lettres informations qui traitent des sujets liés à la manipulation de l’information me laisse un peu sur ma faim. Sans vraiment comprendre pourquoi, j’avais le sentiment d’un manque. Mais où est le problème ?
 
