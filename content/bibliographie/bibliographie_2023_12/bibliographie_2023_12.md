@@ -7,4 +7,4 @@ Nous constituons une bibliographie cyber commentée. Initialement celle-ci regro
 Vous pouvez contribuer à cette bibliographie en proposant des entrées sur notre [GitHub directement](https://github.com/M82-project/Bibliography)
 ou en nous contactant par mail : <contact@m82-project.org>
 
-Téléchargez ici la dernière [version publique de la bibliographie](https://github.com/sebdraven/M82-SiteWeb/blob/master/static/images/biblio/Bibliographie%20cyberde%CC%81fense-mai2024.pdf)
+Téléchargez ici la dernière [version publique de la bibliographie](/files/bibliographie_cyberdéfense-dec2024.pdf)
