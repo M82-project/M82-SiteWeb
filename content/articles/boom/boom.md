@@ -17,7 +17,7 @@ En cybersécurité, on utilise l'expression left of boom pour décrire les actio
 Le "boom" dans ce contexte est le moment où l'on découvre que le système a été compromis. Il est important de noter que ce boom est dynamique : une attaque peut rester invisible pendant longtemps (des jours, des mois, voire des années) avant que l'on ne détecte l'intrusion. Ainsi, la réactivité et la gestion des incidents peuvent varier considérablement en fonction du moment où l'attaque est identifiée.
 
 
-![Boom : vue d’artiste](/images/artiste.png)
+![Boom : vue d’artiste](/images/artiste.jpeg)
 
 
 ## La réutilisation dans la lutte contre la désinformation
@@ -28,7 +28,7 @@ Dans la lutte contre les manipulations de l'information, les concepts de left of
 
 (Source : DISARM GitHub)[https://github.com/DISARMFoundation/DISARMframeworks/blob/main/DISARM_DOCUMENTATION/00_AMITT_Design_Guide_version1.pdf]
 
-![schéma de comparaison CTI - LMI](/images/lbr.png)
+![schéma de comparaison CTI - LMI](/images/lbr.jpg)
 
 ## Les différences fondamentales dans l'application des concepts
 
