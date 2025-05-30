@@ -1,5 +1,5 @@
 ---
-title: Concepts cognitifs essentiels
+title: 1 - Concepts cognitifs essentiels
 date: 2025-05-26
 tags: [grenouille,DIMA]
 featured_image: 'images/banniere_grenouille.png'
