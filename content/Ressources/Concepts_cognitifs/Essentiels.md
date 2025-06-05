@@ -16,52 +16,52 @@ Idéal pour mieux comprendre la matrice [DIMA](https://m82-project.org/ressource
 
 ### Effet autruche
 
-{{< embed-pdf url="/files/essentiels/Effet autruche.pptx">}}
+{{< embed-pdf url="/files/essentiels/Effet autruche.pdf"}}
 
 ### Effet d'autorité
 
-{{< embed-pdf url="/files/essentiels/Effet d'autorité.pptx">}}
+{{< embed-pdf url="/files/essentiels/Effet d'autorité.pdf">}}
 
 ### Effet rebond
 
-{{< embed-pdf url="/files/essentiels/Effet rebond.pptx">}}
+{{< embed-pdf url="/files/essentiels/Effet rebond.pdf">}}
 
 ### Fenêtre d'Overton
 
-{{< embed-pdf url="/files/essentiels/Fenêtre d'Overton.pptx">}}
+{{< embed-pdf url="/files/essentiels/Fenêtre d'Overton.pdf">}}
 
 ### Heuristique limitée
 
-{{< embed-pdf url="/files/essentiels/Heuristiques limitées.pptx">}}
+{{< embed-pdf url="/files/essentiels/Heuristiques limitées.pdf">}}
 
 ### Illusion de contrôle
 
-{{< embed-pdf url="/files/essentiels/Illusion de contrôle.pptx">}}
+{{< embed-pdf url="/files/essentiels/Illusion de contrôle.pdf">}}
 
 ### Ingérences étrangères
 
-{{< embed-pdf url="/files/essentiels/Ingérences étrangères.pptx">}}
+{{< embed-pdf url="/files/essentiels/Ingérences étrangères.pdf">}}
 
 ### Langage conditionne nos pensées
 
-{{< embed-pdf url="/files/essentiels/Langage conditionne nos pensées.pptx">}}
+{{< embed-pdf url="/files/essentiels/Langage conditionne nos pensées.pdf">}}
 
 ### Persuasion paradoxale
 
-{{< embed-pdf url="/files/essentiels/Persuasion paradoxale.pptx">}}
+{{< embed-pdf url="/files/essentiels/Persuasion paradoxale.pdf">}}
 
 ### Propagande
 
-{{< embed-pdf url="/files/essentiels/Propagande.pptx">}}
+{{< embed-pdf url="/files/essentiels/Propagande.pdf">}}
 
 ### Proxémie
 
-{{< embed-pdf url="/files/essentiels/Proxémie.pptx">}}
+{{< embed-pdf url="/files/essentiels/Proxémie.pdf">}}
 
 ### Sagesse des foules
 
-{{< embed-pdf url="/files/essentiels/Sagesse des foules.pptx">}}
+{{< embed-pdf url="/files/essentiels/Sagesse des foules.pdf">}}
 
 ### Sortir du champ de l'expérience
 
-{{< embed-pdf url="/files/essentiels/Sortir du champ de l'expérience.pptx">}}
+{{< embed-pdf url="/files/essentiels/Sortir du champ de l'expérience.pdf">}}
