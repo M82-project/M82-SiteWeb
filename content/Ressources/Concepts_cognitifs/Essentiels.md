@@ -12,11 +12,11 @@ Idéal pour mieux comprendre la matrice [DIMA](https://m82-project.org/ressource
 
 ### Biais d'action
 
-{{< embed-pdf url="/files/essentiels/Biais d'action.pptx">}}
+{{< embed-pdf url="/files/essentiels/Biais d'action.pdf">}}
 
 ### Effet autruche
 
-{{< embed-pdf url="/files/essentiels/Effet autruche.pdf"}}
+{{< embed-pdf url="/files/essentiels/Effet autruche.pdf">}}
 
 ### Effet d'autorité
 
