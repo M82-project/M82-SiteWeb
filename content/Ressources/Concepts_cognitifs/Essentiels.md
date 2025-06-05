@@ -12,56 +12,56 @@ Idéal pour mieux comprendre la matrice [DIMA](https://m82-project.org/ressource
 
 ### Biais d'action
 
-{{< embed-pdf url="/files/DIMA_V4.pdf">}}
+{{< embed-pdf url="/files/essentiels/Biais d'action.pptx">}}
 
 ### Effet autruche
 
-{{< embed-pdf url="/files/DIMA_V4.pdf">}}
+{{< embed-pdf url="/files/essentiels/Effet autruche.pptx">}}
 
 ### Effet d'autorité
 
-{{< embed-pdf url="/files/DIMA_V4.pdf">}}
+{{< embed-pdf url="/files/essentiels/Effet d'autorité.pptx">}}
 
 ### Effet rebond
 
-{{< embed-pdf url="/files/DIMA_V4.pdf">}}
+{{< embed-pdf url="/files/essentiels/Effet rebond.pptx">}}
 
 ### Fenêtre d'Overton
 
-{{< embed-pdf url="/files/DIMA_V4.pdf">}}
+{{< embed-pdf url="/files/essentiels/Fenêtre d'Overton.pptx">}}
 
 ### Heuristique limitée
 
-{{< embed-pdf url="/files/DIMA_V4.pdf">}}
+{{< embed-pdf url="/files/essentiels/Heuristiques limitées.pptx">}}
 
 ### Illusion de contrôle
 
-{{< embed-pdf url="/files/DIMA_V4.pdf">}}
+{{< embed-pdf url="/files/essentiels/Illusion de contrôle.pptx">}}
 
 ### Ingérences étrangères
 
-{{< embed-pdf url="/files/DIMA_V4.pdf">}}
+{{< embed-pdf url="/files/essentiels/Ingérences étrangères.pptx">}}
 
 ### Langage conditionne nos pensées
 
-{{< embed-pdf url="/files/DIMA_V4.pdf">}}
+{{< embed-pdf url="/files/essentiels/Langage conditionne nos pensées.pptx">}}
 
 ### Persuasion paradoxale
 
-{{< embed-pdf url="/files/DIMA_V4.pdf">}}
+{{< embed-pdf url="/files/essentiels/Persuasion paradoxale.pptx">}}
 
 ### Propagande
 
-{{< embed-pdf url="/files/DIMA_V4.pdf">}}
+{{< embed-pdf url="/files/essentiels/Propagande.pptx">}}
 
 ### Proxémie
 
-{{< embed-pdf url="/files/DIMA_V4.pdf">}}
+{{< embed-pdf url="/files/essentiels/Proxémie.pptx">}}
 
 ### Sagesse des foules
 
-{{< embed-pdf url="/files/DIMA_V4.pdf">}}
+{{< embed-pdf url="/files/essentiels/Sagesse des foules.pptx">}}
 
 ### Sortir du champ de l'expérience
 
-{{< embed-pdf url="/files/DIMA_V4.pdf">}}
+{{< embed-pdf url="/files/essentiels/Sortir du champ de l'expérience.pptx">}}
