@@ -40,7 +40,7 @@ Idéal pour mieux comprendre la matrice [DIMA](https://m82-project.org/ressource
 
 ### Ingérences étrangères
 
-{{< embed-pdf url="/files/essentiels/Inferencess_etrangeres.pdf">}}
+{{< embed-pdf url="/files/essentiels/Ingerences_etrangeres.pdf">}}
 
 ### Langage conditionne nos pensées
 
