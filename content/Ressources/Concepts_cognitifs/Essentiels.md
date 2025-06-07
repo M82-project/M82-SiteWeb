@@ -12,7 +12,7 @@ Idéal pour mieux comprendre la matrice [DIMA](https://m82-project.org/ressource
 
 ### Biais d'action
 
-{{< embed-pdf url="/files/essentiels/Biais d'action.pdf">}}
+{{< embed-pdf url="/files/essentiels/Biais_d_action.pdf">}}
 
 ### Effet autruche
 
@@ -28,23 +28,23 @@ Idéal pour mieux comprendre la matrice [DIMA](https://m82-project.org/ressource
 
 ### Fenêtre d'Overton
 
-{{< embed-pdf url="/files/essentiels/Fenêtre d'Overton.pdf">}}
+{{< embed-pdf url="/files/essentiels/Fenetre_d_Overton.pdf">}}
 
 ### Heuristique limitée
 
-{{< embed-pdf url="/files/essentiels/Heuristiques limitées.pdf">}}
+{{< embed-pdf url="/files/essentiels/Heuristiques_limitees.pdf">}}
 
 ### Illusion de contrôle
 
-{{< embed-pdf url="/files/essentiels/Illusion de contrôle.pdf">}}
+{{< embed-pdf url="/files/essentiels/Illusion_de_controle.pdf">}}
 
 ### Ingérences étrangères
 
-{{< embed-pdf url="/files/essentiels/Ingérences étrangères.pdf">}}
+{{< embed-pdf url="/files/essentiels/Inferencess_etrangeres.pdf">}}
 
 ### Langage conditionne nos pensées
 
-{{< embed-pdf url="/files/essentiels/Langage conditionne nos pensées.pdf">}}
+{{< embed-pdf url="/files/essentiels/Langage_conditionne_nos_pensees.pdf">}}
 
 ### Persuasion paradoxale
 
@@ -56,12 +56,12 @@ Idéal pour mieux comprendre la matrice [DIMA](https://m82-project.org/ressource
 
 ### Proxémie
 
-{{< embed-pdf url="/files/essentiels/Proxémie.pdf">}}
+{{< embed-pdf url="/files/essentiels/Proxemie.pdf">}}
 
 ### Sagesse des foules
 
-{{< embed-pdf url="/files/essentiels/Sagesse des foules.pdf">}}
+{{< embed-pdf url="/files/essentiels/Sagesse_des_foules.pdf">}}
 
 ### Sortir du champ de l'expérience
 
-{{< embed-pdf url="/files/essentiels/Sortir du champ de l'expérience.pdf">}}
+{{< embed-pdf url="/files/essentiels/Sortir_du_champ_de_l_experience.pdf">}}
