@@ -20,7 +20,7 @@ Idéal pour mieux comprendre la matrice [DIMA](https://m82-project.org/ressource
 
 ### Effet d'autorité
 
-{{< embed-pdf url="/files/essentiels/Effet d'autorité.pdf">}}
+{{< embed-pdf url="/files/essentiels/Effet_d_autorite.pdf">}}
 
 ### Effet rebond
 
