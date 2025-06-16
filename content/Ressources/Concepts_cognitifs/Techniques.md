@@ -17,7 +17,7 @@ Idéal pour mieux comprendre la matrice [DIMA](https://m82-project.org/ressource
 
 ### Trinité Soviétique de la désinformation
 
-{{< embed-pdf url="/files/techniques/Trinité.pdf">}}
+{{< embed-pdf url="/files/techniques/Trinite.pdf">}}
 
 ### Ingérence en Roumanie
 
@@ -41,6 +41,6 @@ Idéal pour mieux comprendre la matrice [DIMA](https://m82-project.org/ressource
 
 ### 4 D
 
-{{< embed-pdf url="/files/techniques/4 D.pdf">}}
+{{< embed-pdf url="/files/techniques/4D.pdf">}}
 
 
