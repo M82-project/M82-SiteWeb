@@ -8,7 +8,7 @@ draft: false
 
 On poursuit notre exploration des concepts essentiels dans la manipulation de l'information. A découvrir et partager sans modération !
 Retrouvez les premiers épisodes ici : [les concepts cognitifs essentiels](https://m82-project.org/ressources/concepts_cognitifs/essentiels/) et [pourqoui le mensonge paye](https://m82-project.org/ressources/concepts_cognitifs/mensonge/).
-Cette, vous trouverez un éclairage sur les principales techniques et manoeuvres mises en oeuvre par nos adversaires.
+Dans ce chapitre, vous trouverez un éclairage sur les principales techniques et manoeuvres mises en oeuvre par nos adversaires.
 Idéal pour mieux comprendre la matrice [DIMA](https://m82-project.org/ressources/framework_dima_presentation:) !
 
 ### Manipulations et blanchiment en Roumanie
