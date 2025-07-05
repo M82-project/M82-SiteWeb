@@ -1,11 +1,11 @@
 ---
 title: "Télécharger l'index DIMA pour identifier l'utilisation des biais cognitifs en ligne"
-date: 2025-05-07
+date: 2025-07-05
 author: M82_project
 tags: [LMI,désinformation,guide,plugin]
 ---
 
-## La V1 du Détecteur de Manipulation Cognitive 🧠 Plugin DIMA est disponible ! 
+## La V1 du Détecteur de Manipulation Cognitive 🧠 Plugin DIMA est disponible
 
 [Téléchargez et installez le plugin Chrome ici :](https://github.com/M82-project/DIMA/tree/main/plugin/plugin_chrome/fichiers%20%C3%A0%20t%C3%A9l%C3%A9charger)
 
@@ -17,7 +17,7 @@ Il s'inscrit dans une démarche de lutte contre la manipulation de l'information
 
 ## Comment ça fonctionne ?
 
-### Détection automatique: 
+### Détection automatique
 
 - Analyse le contenu dès le chargement de la page;
 
@@ -35,7 +35,7 @@ Il s'inscrit dans une démarche de lutte contre la manipulation de l'information
 
 - Boosts : Multiplicateurs pour les contextes suspects (urgence, autorité, preuve sociale)
 
-### L'Interface permet de mieux comprendre les différentes phases DIMA:
+### L'Interface permet de mieux comprendre les différentes phases DIMA
 
 - Phase Détecter 👁️
 
