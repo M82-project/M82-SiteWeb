@@ -5,11 +5,11 @@ author: M82_project
 tags: [LMI,désinformation,guide,plugin]
 ---
 
-### La V1 du Détecteur de Manipulation Cognitive 🧠 Plugin #DIMA est disponible ! 
+## La V1 du Détecteur de Manipulation Cognitive 🧠 Plugin DIMA est disponible ! 
 
 [Téléchargez et installez le plugin Chrome ici :](https://github.com/M82-project/DIMA/tree/main/plugin/plugin_chrome/fichiers%20%C3%A0%20t%C3%A9l%C3%A9charger)
 
-L'index [DIMA](https://m82-project.org/ressources/framework_dima_presentation/) est un outil de détection automatique des techniques cognitives dans les contenus web. Basé sur [la matrice #DIMA](https://github.com/M82-project/DIMA) développée par le M82 project, il analyse en temps réel les pages que vous visitez pour identifier les tentatives de manipulation de l'information.
+L'index [DIMA](https://m82-project.org/ressources/framework_dima_presentation/) est un outil de détection automatique des techniques cognitives dans les contenus web. Basé sur [la matrice DIMA](https://github.com/M82-project/DIMA) développée par le M82 project, il analyse en temps réel les pages que vous visitez pour identifier les tentatives de manipulation de l'information.
 
 Il s'inscrit dans une démarche de lutte contre la manipulation de l'information et de promotion de l'esprit critique numérique et de la vigilance en ligne. Il constitue un outil d'aide, pas un verdict définitif sur la qualité d'un contenu.
 
@@ -17,7 +17,7 @@ Il s'inscrit dans une démarche de lutte contre la manipulation de l'information
 
 ## Comment ça fonctionne ?
 
-# Détection automatique : 
+### Détection automatique: 
 
 - Analyse le contenu dès le chargement de la page;
 
@@ -27,7 +27,7 @@ Il s'inscrit dans une démarche de lutte contre la manipulation de l'information
 
 - Score de risque (l'index) : Note de 0 à 100 avec niveau de vigilance (Faible à Critique)
 
-# Pondération intelligente (en consolidation)
+### Pondération intelligente (en consolidation)
 
 - Contextuelle : Adaptation selon le type de site (actualités, blog, commerce)
 
@@ -35,7 +35,7 @@ Il s'inscrit dans une démarche de lutte contre la manipulation de l'information
 
 - Boosts : Multiplicateurs pour les contextes suspects (urgence, autorité, preuve sociale)
 
-# L'Interface permet de mieux comprendre les différentes phases #DIMA:
+### L'Interface permet de mieux comprendre les différentes phases DIMA:
 
 - Phase Détecter 👁️
 
