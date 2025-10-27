@@ -53,6 +53,6 @@ Manipulation de la mémoire : biais de confirmation, confusion des sources...
 
 Incitation à l'action : FOMO, biais d'autorité, excès de confiance...
 
-[Téléchargez et installez le plugin Chrome ici :](/files/Plugin-dima-V1.zip)
+[Téléchargez et installez le plugin Chrome ici :](https://github.com/M82-project/DIMA_Plugin_Chrome)
 
 Découvrez également [notre petit guide de survie](https://m82-project.org/ressources/le_guide_lmi/)
