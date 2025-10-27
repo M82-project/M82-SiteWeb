@@ -7,7 +7,7 @@ tags: [LMI,désinformation,guide,plugin]
 
 ## La V1 du Détecteur de Manipulation Cognitive 🧠 Plugin DIMA est disponible
 
-[Téléchargez et installez le plugin Chrome ici :](/files/Plugin-dima.zip)
+[Téléchargez et installez le plugin Chrome ici :](https://github.com/M82-project/DIMA_Plugin_Chrome)
 
 L'index [DIMA](https://m82-project.org/ressources/framework_dima_presentation/) est un outil de détection automatique des techniques cognitives dans les contenus web. Basé sur [la matrice DIMA](https://github.com/M82-project/DIMA) développée par le M82 project, il analyse en temps réel les pages que vous visitez pour identifier les tentatives de manipulation de l'information.
 
