@@ -7,7 +7,7 @@ tags: [LMI, desinformation]
 
 La lutte contre la manipulation de l'information (LMI) est une discipline récente dont le cadre conceptuel en construction est très largement hérité de la cybersécurité et de la terminologie militaire.  Pourtant, face aux spécificités des menaces informationnelles contemporaines, les limites d’une telle transposition apparaissent clairement et militent pour une adaptation et une clarification de certains concepts. Ce livre blanc propose ainsi un cadre d’analyse articulé autour de trois axes principaux.
 
-![Télécharger le livre blanc ici](/files/20251101_LBMMI.pdf)
+[Télécharger le livre blanc ici](/files/20251101_LBMMI.pdf)
 
 Le premier repose sur la distinction claire entre deux types d’opérations informationnelles : **les opérations stratégiques**, qui visent à transformer durablement les croyances, notamment en déplaçant la fenêtre d’Overton ou en exacerbant les fractures sociales ; et **les opérations tactiques**, qui cherchent à modifier ponctuellement les comportements sans altérer en profondeur les convictions. Cette typologie permet alors de concevoir des modèles d’analyse différenciés.
 
