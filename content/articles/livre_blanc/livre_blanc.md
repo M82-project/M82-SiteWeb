@@ -28,7 +28,6 @@ Il permet une capitalisation rigoureuse des incidents afin de révéler les capa
 Les implications opérationnelles de cette approche sont multiples :
 - évacuation du terme campagne pour décrire les éléments observés car la campagne correspond à une vision spécifiquement attaquant, pratiquement inexploitable dans le cadre de la LMI.
 - Détection, caractérisation et capitalisation centrée sur le niveau incident.
-- Distinction claire entre mesures d’impact côté défenseur, et mesures d’effet (MOE) ou de performance (MOP) côté attaquant.
 - Accumulation méthodique d’observables ouvrant la voie à un véritable renseignement sur la menace informationnelle (Informational Threat Intelligence, ITI) 
 
 En structurant l’analyse de la menace informationnelle comme un processus de renseignement, cette méthode permet d’éviter les pièges de la surinterprétation, tout en produisant une connaissance actionnable, adaptée aux exigences d’une réponse efficace et ciblée. 
