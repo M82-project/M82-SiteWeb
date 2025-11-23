@@ -5,7 +5,7 @@ author: M82_project
 tags: [LMI,désinformation,guide,plugin]
 ---
 
-## La V1 du Détecteur de Manipulation Cognitive 🧠 Plugin DIMA est disponible
+## La V2 du Détecteur de Manipulation Cognitive 🧠 Plugin DIMA est disponible
 
 [Téléchargez et installez le plugin Chrome ici :](https://github.com/M82-project/DIMA_Plugin_Chrome/releases)
 
