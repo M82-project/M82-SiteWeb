@@ -5,7 +5,7 @@ author: Bertrand Boyer
 tags: [LMI,désinformation,DISARM,cognitive warfare]
 ---
 
-Après quelques ajustements (il y en a sans doute encore !) l'add-on DIMA est enfin disponible en un clic sur le [store Firefox](https://addons.mozilla.org/fr/firefox/addon/).
+Après quelques ajustements (il y en a sans doute encore !) l'add-on DIMA est enfin disponible en un clic sur le [store Firefox](https://addons.mozilla.org/fr/firefox/addon/dima-analyzer/) et sur le [store Chrome](https://chromewebstore.google.com/detail/dima-analyzer/idefpkpjaihgehhoppojpoboifblfcmm).
 
 Ce petit outil, léger et sans LLM, analyse en statique les pages web que vous visitez pour identifier des mots clés et des structures de phrases régulièrement associées à des exploitations de biais cognitifs. Il repose sur le **framework DIMA** que le collectif M82_project développe depuis trois ans.
 
